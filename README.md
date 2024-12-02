@@ -1,5 +1,10 @@
 
+This actual page is currently served on...
+https://avergrove.github.io/avergroves-learning-notes/docs/tetris/
 
+Repo might need some adjustments before I get used to it haha
+
+---
 
 # Website
 
