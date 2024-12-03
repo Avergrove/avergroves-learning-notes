@@ -21,7 +21,10 @@ But really it's just here to talk about 8-1 and 9-0.
 ## 8-1 Stacking
 - The black sheep of the family. Stacking 8-1 is pain because you need double I-pieces to even do anything, and even more so when garbage is currently spawning in 8-1 (See: Zenith tower)
 - Options:
-    - Keep B2B:Parapet chaining.
+    - Keep B2B:
+        - Parapet chaining
+        - King Crimson
+            - It's a risky build due to its height, however, if you already have a height and just need to slap on that JZ.. it's a fantastic choice
     - Don't care about B2B: Hyper Fractal. An extremely strong option because your tetris well is always open!
 - Your main option is to chain together using Parapet TSSs if you want to maintain that b2b and grow that side height without an I-piece!
 - If you don't care about B2B, you can actually look into Hyper fractals! It's actually an extremely useful option here because your tetris well will always be available

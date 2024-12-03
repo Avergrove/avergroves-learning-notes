@@ -1,0 +1,17 @@
+# (WIP) Deadlock (For an non-MOBA player)
+- Deadlock is the kind of game that you would not improve at all if you do not get any guidance anywhere. Seriously.
+- This also assumes you know how MOBAs work in general already
+- Anyway, the few turning points that change my idea of the game that would help a lot are the following.
+    - It is okay to die.. for a reason.
+        - Getting objectives (Walkers, Rejuv, helping a higher value teammate stay alive)
+        - Don't be afraid to jump into the frontline, it's surprisingly difficult to die. Also you won't even learn how to fight on the frontline if you don't jump in...
+    - Efficiency
+        - Laning: You can gain a soul advantage by securing your creeps + soul, but you can't gain an advantage by only denying enemy creeps. Last hit those creeps!
+        - Jungling: The default strategy should be push up your lane as far and as safe as possible, usually up to the mid line. Anything beyond that should require you to look at the map if the enemy is distracted.
+            - If all lanes are pushed up, feel free to bide your time and kill some jungle creeps... near your teammates if you have the resource to help them.
+    - Go get a community build, seriously the default ones are questionable.
+        - Once you get used to a community build, copy and edit into your own one. Again, very important to show that you understand what your hero needs.
+    - Laning:
+        - Some heroes are better when letting creeps push into their tower (Mirage, one poke deals large amount of damage over time if enemy stays in the open)
+        - Some heroes are better when pushing creeps in (characters with grenades in their kit, enemies are forced to huddle down into tight corners)
+        - If your laning partner is pushing in, go in with them! Seriously, it's better to potentially get a 2 KO instead of your laning partner dying alone.. and then you next.
