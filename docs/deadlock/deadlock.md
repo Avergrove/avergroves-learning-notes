@@ -1,10 +1,11 @@
-# (WIP) Deadlock (For an non-MOBA player)
+# Deadlock
 - Deadlock is the kind of game that you would not improve at all if you do not get any guidance anywhere. Seriously.
 - This also assumes you know how MOBAs work in general already
 - Anyway, the few turning points that change my idea of the game that would help a lot are the following.
     - It is okay to die.. for a reason.
         - Getting objectives (Walkers, Rejuv, helping a higher value teammate stay alive)
         - Don't be afraid to jump into the frontline, it's surprisingly difficult to die. Also you won't even learn how to fight on the frontline if you don't jump in...
+        - Also it's surprisingly reasonable to help turn a 1v3 into a 2v3.
     - Efficiency
         - Laning: You can gain a soul advantage by securing your creeps + soul, but you can't gain an advantage by only denying enemy creeps. Last hit those creeps!
         - Jungling: The default strategy should be push up your lane as far and as safe as possible, usually up to the mid line. Anything beyond that should require you to look at the map if the enemy is distracted.

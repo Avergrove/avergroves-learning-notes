@@ -12,10 +12,10 @@ Of course, you can play tetris just by spamming regular tetris but... why not le
         - Why right over left? Because the pieces spawn biassed to the right. I never confirmed this but if they say so, it... probably is so.
     - Twists: Learn it. It will make your stacking life much easier and open up more options.
 - I'm making these times very lenient, because I want you to be interested in learning all the extra stuff! Speed will always come naturally, so don't stress about it.
-- Once you can clear 40 lines, try and perform the following (again, don't stress about the time!):
-    - Complete 40 line only using Tetrisses (Quads)
-    - No hold allowed. 
-    - No hold allowed AND no Tetris
+- Once you can clear 40 lines, try and perform the following 40 lines... (again, don't stress about the time!):
+    - Using only Tetrisses (Quads)
+    - Without using hold. 
+    - Without finesse errors (See Auxillary fundamentals)
 
 #### Auxillary Fundamentals
 - I'm putting these here because it's important to learn these early on before your muscle memory kicks in.

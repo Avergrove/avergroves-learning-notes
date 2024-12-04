@@ -5,8 +5,10 @@ But really it's just here to talk about 8-1 and 9-0.
 
 ## 5-4 Stacking
 - This is as freestyle as stacking gets, all techniques are available to you.
-- The problem is that this is really entirely freestyle. Too much is available to you. 
-- The most structured stacking I can think of is use Prop stacking + create holes between 1-2-4 tall gaps. 3 gaps are a big no-no for some reason.
+- The problem is that this is really entirely freestyle. Too much might be available to you. 
+- If you want a more "structured" stacking option, try using Prop stacking + creating holes with 1-2-4 tall gaps. 3 gaps are a big no-no for some reason.
+    - Galactoid has a few pages on props for T-spinning:
+        - https://galactoidtetris.wordpress.com/2020/09/27/really-advanced-t-spin-props/
 
 ## 6-3 Stacking
 - This is the primary stacking method used in Sprints. The main reason for this is lowest Key per Piece, and also the 3 side has very... patterned stacking methods.
@@ -24,7 +26,8 @@ But really it's just here to talk about 8-1 and 9-0.
     - Keep B2B:
         - Parapet chaining
         - King Crimson
-            - It's a risky build due to its height, however, if you already have a height and just need to slap on that JZ.. it's a fantastic choice
+            - It's a risky build due to its height, however, if you already have a height and just need to slap on that JZ.. it's a fantastic choice. 
+                - The criteria to build is somewhat specific, though. It has to be a single block in the corner, or the STSD gets ruined!
     - Don't care about B2B: Hyper Fractal. An extremely strong option because your tetris well is always open!
 - Your main option is to chain together using Parapet TSSs if you want to maintain that b2b and grow that side height without an I-piece!
 - If you don't care about B2B, you can actually look into Hyper fractals! It's actually an extremely useful option here because your tetris well will always be available
@@ -37,10 +40,9 @@ But really it's just here to talk about 8-1 and 9-0.
             - Basically covering the well with any piece, really. To keep it simple, look for just TSD ones and avoid building TSTs.
         - Kaidan
             - You will see this EXTREMELY often. It's also easy to identify! Kaidan means stairs, so just look for stairs and slap an S
-        - Hamburger stacking:
-            - An introduction to resource maintenance.
-        - Sachiku Train stacking (4 wide, 2 tall side area):
-            - An introduction to the dangerous double TSD options so that you look at your queue and see the T-pieces available.
+        - Hamburger stacking (3 wide)
+        - Shachiku Train stacking (4 wide, 2 tall side area):
+            - Basically Hamburger Stacking but for a 4 wide area side.
         - Yoshihiro SD (4 wide, 3 tall side area)
             - It's two t-spin doubles and an L piece that needs to come in the correct order. So be careful when going for this one.
         - Reverse Yoshihiro (3 wide, 1 tall side area):
