@@ -1,6 +1,5 @@
 # Deadlock
 - Deadlock is the kind of game that you would not improve at all if you do not get any guidance anywhere. Seriously.
-- This also assumes you know how MOBAs work in general already
 - Anyway, the few turning points that change my idea of the game that would help a lot are the following.
     - It is okay to die.. for a reason.
         - Getting objectives (Walkers, Rejuv, helping a higher value teammate stay alive)
@@ -16,3 +15,6 @@
         - Some heroes are better when letting creeps push into their tower (Mirage, one poke deals large amount of damage over time if enemy stays in the open)
         - Some heroes are better when pushing creeps in (characters with grenades in their kit, enemies are forced to huddle down into tight corners)
         - If your laning partner is pushing in, go in with them! Seriously, it's better to potentially get a 2 KO instead of your laning partner dying alone.. and then you next.
+    - Go understand what your hero does:
+        - I actually played Infernus first because well, let's be honesty his design is sick. My first mistake was trying to spend 100% uptime running right on top of the enemy to "maximize" damage. But it doesn't. Your opponents get ignited the full time the moment you touch them. The actual correct choice to maximize dps is to Run at them and start shooting so you get both trail and on-hit procs.
+        - Anyway, a lot of these can be solved by watching how others play. The main problem is that you might not even notice it if you aren't aware of it in the first place, again another reason why I say you REALLY need someone to help watch you play and watch your inefficiencies. It's really similar to why people recommend teachers when learning music. You don't know what you don't know.

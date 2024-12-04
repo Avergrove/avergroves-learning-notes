@@ -1,7 +1,7 @@
 # Well Techniques Overview
 This page discusses what techniques become available to you for stacking in each column. i.e. 5-4, 6-3, 7-2, 8-1, 9-0.
 But really it's just here to talk about 8-1 and 9-0.
-- Most techniques from 9-0 are availble in other wells before it, while techniques from 5-4 are not available in 9-0 (ie because they require space on the other side of the well.)
+- Most techniques from 9-0 are available in other wells before it, while techniques from 5-4 might not be available in 9-0 (ie because they require space on the other side of the well.)
 
 ## 5-4 Stacking
 - This is as freestyle as stacking gets, all techniques are available to you.

@@ -11,8 +11,10 @@ So if we create a table for each key signature, we can memorize the following an
 ## Major Key
 First, let's memorize the Major key signature values:
 Major keys
-C,D,E,F,G,A,B (White keys) : 0,2,4,-1,1,3,5
-Db, Eb, Gb, Ab, Bb (Black keys): 5, 3, 6, 4, 2
+| Keys | Key Signature Values|
+|------|---------------------|
+| C, D, E, F, G, A, B (White keys) | 0, 2, 4, -1, 1, 3, 5 |
+| Db, Eb, Gb, Ab, Bb (Black keys)  | 5, 3, 6, 4, 2 |
 
 ## Minor key
 To convert from major key, simply -3 to key signature value.
@@ -20,8 +22,11 @@ If the number exceeds 12, then do a 12 - x to flip the value.
 
 ie C major = 0, so C minor = 0 - 3 = -3
 
-C,D,E,F,G,A,B (White keys) : -3, -1, 1, -4, -2, 0, 2
-Db, Eb, Gb, Ab, Bb (Black keys): 4, 6, 3, 5, -5
+
+| Keys | Key Signature Values|
+|------|---------------------|
+| C, D, E, F, G, A, B (White keys) | -3, -1, 1, -4, -2, 0, 2 |
+| C#, D#, F#, G#, Bb (Black keys)  | 4, 6, 3, 5, -5 |
 
 ## Modes
 ### Quick prelude
@@ -30,13 +35,12 @@ I need you to forget that for a moment.
 
 I want you to think it in terms of scales.
 So instead of say G mixolydian, I want you to think of something arbitrary instead, like C Mixolydian.
-C Mixolydian has 1 flat. If you just play the scale, it won't sound like a scale since you might not be familliar with it.
-Scale notes: C, D, E, F, G, A, Bb
+C Mixolydian has 1 flat. If you just play the scale (C, D, E, F, G, A, Bb), it won't sound like a scale since you might not be familliar with it.
 
 But a lot of bluesy songs / jazz songs use this. Even some video game soundtracks use this. That funky feeling you hear in songs is actually Mixolydian popping in!
 So instead of playing scales, I want you to try something different, let's build a 7th chord from this scale. 
 
-C, E ,G, Bb
+C, E, G, Bb
 
 Why, that's a Dominant seventh chord, used regularly in blues!
 Now let's listen to a soundtrack that uses this.
@@ -55,22 +59,22 @@ We just have to find the difference for each key signature value.
 If we use A major to minor as an example, we can see A goes from 3 to 0, so to convert from major to minor, we simply need to -3.
 Repeat this process for each white keys and we get the following:
 
-Lydian (F): +1
-Ionian (C): 0
-Mixolydian (G): -1
-Dorian (D): -2
-Aeolian (A): -3
-Phrygian (E): -4
-Locrian (B): -5
+- Lydian (F): +1
+- Ionian (C): 0
+- Mixolydian (G): -1
+- Dorian (D): -2
+- Aeolian (A): -3
+- Phrygian (E): -4
+- Locrian (B): -5
 
 So a G in each mode will have the following:
-G Lydian: 2
-G Ionian: 1
-G Mixolydian: 0
-G Dorian: -1
-G Aeolian: -2
-G Phrygian: -3
-G Locrian: -4
+- G Lydian: 2
+- G Ionian: 1
+- G Mixolydian: 0
+- G Dorian: -1
+- G Aeolian: -2
+- G Phrygian: -3
+- G Locrian: -4
 
 
 It's easier to split these into two based on their thirds and calculate from there.
@@ -81,18 +85,18 @@ Dorian, Aeolian, Phrygian and Locrian are minor keys because they have a minor t
 So let's group them up
 
 Calculation from major scale:
-Lydian: +1
-Ionian: 0
-Mixolydian: -1
+- Lydian: +1
+- Ionian: 0
+- Mixolydian: -1
 
 Example: 
 C Lydian = C major (0) + 1 = 1
 
 Calculation from minor scale
-Dorian: +1
-Aeolian: 0
-Phrygian: -1
-Locrian: -2
+- Dorian: +1
+- Aeolian: 0
+- Phrygian: -1
+- Locrian: -2
 
 C Dorian = C Minor (-3) +1 = -2
 
