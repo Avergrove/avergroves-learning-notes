@@ -1,4 +1,4 @@
-# Extension of the Key Signature Values technique
+# Extension of the Key Signature Values Technique
 I want to write here a more "straightforward" way of memorizing key signatures.
 
 First, give the site here a read:

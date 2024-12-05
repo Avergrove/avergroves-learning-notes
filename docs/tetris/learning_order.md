@@ -45,4 +45,4 @@ After learning the basic TSD, you can start diverging into different subjects..
 - These are the major stacking styles used in different scenarios. They all involve using specific pieces to create a pattern on one side and using the other pieces in the stack on the other side for improvisation.
     - ST Stacking: Four.lol says this is a great for beginners to learn and... honestly it is. It's also very painful. Also I can't do it consistently either.
     - LST Stacking:
-    - Hyper Fractal: You don't actually have to use this but, but it's extremely useful regardless because it helps creates TSDs. It also helps you get famillar with creating TSDs with Grim Grotto.
+    - Hyper Fractal: You don't actually have to use this because it actually breaks b2b, but it's extremely useful regardless because it helps creates TSDs. It also helps you get famillar with creating TSDs with Grim Grotto.
