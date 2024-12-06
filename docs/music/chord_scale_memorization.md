@@ -1,11 +1,11 @@
-# Chord scales Memorization
+# Chord Scale Memorization
 - Chord scales is a fundamental knowledge in Jazz. The gist is that you can fit your typical chord into any existing scale.. if they make sense.
 - For example, with a C Major, we have C E G.
 - The C Major scale has C D E F G A B C, which consist of all the notes in a C major 7, therefore C Major 7 fits the scale C Major.
 - It also fits the C Lydian scale: C D E F# G A B C, which also consists of all notes in C Major 7. Therefore C Major 7 fits the C Lydian mode.
 - We can keep things simple by grouping scales that fit together easily. 
 
-## Method 1: The +- 1 method
+## Section 1: The +- 1 Key Signature Category
 - We know C Major fits a C major scale. But it also works well with the same scale of +- 1 to key signature. ie C Lydian.
 - It's also one of the reasons why key signatures of perfect fifth interval tend to be "close" to each other.
 - Similarly, we know C Minor 7 fits a C minor scale, but it also works well with the same scale of +- to key signature. ie C Dorian and C Phrygian.
@@ -34,7 +34,7 @@
 
 - Notice that mixolydian is no longer available for Maj7, because the 7th gets flattened into a dominant chord.
 
-## Method 2: The Dominant chord
+## Section 2: The Dominant chord
 The core of a 7 chord is the Mixolydian mode.
 But, the 7th chord is typically used to make a part of a song sound unstable. In a strangely counterintuitive way, a seventh chord is considered "stable".
 
@@ -56,3 +56,6 @@ There's no way around this (yet as far as I'm aware), use them when you feel tha
 
 ### Other scales
 - This is getting into exotic territory and likely it's best you experiment with playing wrong notes more as you go.
+
+## This is all too much
+- You are right. Technically speaking, we can just not play the Avoid notes... or do play the avoid notes if you want dissonance. 

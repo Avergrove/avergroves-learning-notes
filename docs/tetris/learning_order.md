@@ -29,20 +29,20 @@ Of course, you can play tetris just by spamming regular tetris but... why not le
 
 After learning the basic TSD, you can start diverging into different subjects..
 - Openers: 
-    - TKI: You don't have to learn beyond the first T-spin unless you need them. 
-    - PCO: You can also learn PCO for fun and giggles since it teaches you how to perform t-spins and twists, but I wouldn't look too deep into it though since perfect clears aren't reliable in games.
+    - In theory, you only need two openers, TKI and MS2. TKI is a versatile opener that opens a match with a TSD so you can survive into the midgame. MS2 is a 100% build rate opener with a high PC rate that can enter a DPC loop.
+    - However, you can learn some extra ones if you'd like.. 
+    - PCO: You can learn PCO for fun and giggles since it teaches you how to perform t-spins and twists, but I wouldn't look too deep into it though since perfect clears aren't reliable in games.
         - If you want to feel really cool, search for the Jigsaw loop. It's essentially a loop that can walys be set up, performing 2 perfect clears into a DPC.
-    - MKO: One of the more freestyled openers available. 
+    - MKO: A freestyle opener that smoothly leads into 6-3 stacking.
 - Donations: These are TSDs performed by covering the 9 0 hole.
-- 
 
 #### Skims
 - Skims break b2b, but breaking b2b is better than not achieving anything. So go learn them! Some skims can help kick start your b2b, these are skimming tsd setups.
     - Grim Grotto: Using a hanging J or L piece to create a 1-wide hole. Perfect for TSDs and can even create STSD slots when you overbuild!
-    - 
-
+        - Shallow Grave: An extension of Grim grotto that forms the basic unit of Hyper Fractals.
+    - Dejavu: A skim that creates a donut shape, thereby creating a TSD hole on completion.
 #### Advanced subjects
 - These are the major stacking styles used in different scenarios. They all involve using specific pieces to create a pattern on one side and using the other pieces in the stack on the other side for improvisation.
     - ST Stacking: Four.lol says this is a great for beginners to learn and... honestly it is. It's also very painful. Also I can't do it consistently either.
     - LST Stacking:
-    - Hyper Fractal: You don't actually have to use this because it actually breaks b2b, but it's extremely useful regardless because it helps creates TSDs. It also helps you get famillar with creating TSDs with Grim Grotto.
+    - Hyper Fractal: You don't actually have to use this because it actually breaks b2b, but it's extremely useful regardless because it helps creates TSDs. It also helps you get famillar with creating TSD slots with Grim Grotto.

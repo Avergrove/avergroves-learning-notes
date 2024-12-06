@@ -9,12 +9,12 @@ Basically we want to give each key signature a value. 0 indicates no key modific
 So if we create a table for each key signature, we can memorize the following and do some modulo calculation.
 
 ## Major Key
-First, let's memorize the Major key signature values:
+First, let's memorize the Major key signature values, it's recommended to just memorize the ones for the black keys too:
 Major keys
 | Keys | Key Signature Values|
 |------|---------------------|
 | C, D, E, F, G, A, B (White keys) | 0, 2, 4, -1, 1, 3, 5 |
-| Db, Eb, Gb, Ab, Bb (Black keys)  | 5, 3, 6, 4, 2 |
+| Db, Eb, Gb, Ab, Bb (Black keys)  | -5, -3, -6, -4, -2 |
 
 ## Minor key
 To convert from major key, simply -3 to key signature value.
@@ -22,6 +22,8 @@ If the number exceeds 12, then do a 12 - x to flip the value.
 
 ie C major = 0, so C minor = 0 - 3 = -3
 
+I usually just straight up memorize the the black key ones since it requires an extra 12-x calculation. 
+The white key ones can be quickly derived using the x-3 method.
 
 | Keys | Key Signature Values|
 |------|---------------------|
@@ -48,7 +50,7 @@ Now let's listen to a soundtrack that uses this.
 Final Fantasy 8 - Timber owls
 https://www.youtube.com/watch?v=5bJmW1tKzN4
 
-The first first 3 notes is mixolydian already. In fact, the whole song is in mixolydian. THAT is what modes are. They are scales. They aren't "starting notes from another position in a scale". They are scales with one or more notes altered from the "major" scale.
+The first 3 notes is mixolydian already. In fact, the whole song is in mixolydian. THAT is what modes are. They are scales. They aren't "starting notes from another position in a scale". They are scales with one or more notes altered from the "major" scale.
 
 
 ### The actual tutorial on finding mode key signatures
