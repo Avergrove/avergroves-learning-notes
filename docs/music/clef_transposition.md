@@ -29,8 +29,6 @@ You can also use it if you are playing on an Alto Recorder if you dont wan't to 
 |Soprano Recorder | Concert        | Treble             | None!                      |
 |Alto Recorder    | Concert        | Mezzo Soprano      | -1 Flat                    |
 
-Clef transposition is actually related to the key signature value technique. I've written down what clef is needed for each modification type. I didn't update the table since it was in my journal and I am a lazy derg.
-
 ## Clef Transposition Table
 ---
 
@@ -64,25 +62,8 @@ These are all assuming you are playing from a transposing instrument trying to r
 The \* indicates the "true" clef that it should be read as to keep each clef unique.
 +6 sharp and +6 flats are the "same" thing.
 
-### How did I memorize this?
-- I use **"Baal Sobas Time"** to remember flat instrument signature. Baal is like some god of destruction or something. Soba is a type of japanese noodle, the s is there to remember Bass. Time is the thing musicians must keep track off lest they get booed off the stage.
-    - Ba: Baritone
-    - Al: Alto
-    - So: Soprano
-    - Ba: Bass 
-    - Ti: Tenor
-    - Me: Mezzo Soprano
-- I've Mmmorized that Alto clef is +2 sharp since I play a Bb Sax, so the order must be baritone = 1, alto = 2, soprano = 3 and so on.
-- Notice that for sharp instruments, the same order can be used. 
-- Notice that the absolute value of both numbers add to 7. So alto clef adds 2 sharp, so it must add 5 flat in the other direction. (2 + 5 = 7)
-
 ### What about transposing concert pitch Bass clef?
-- Coming Soon (TM), I'll make a table and check how each clef rotates around each other when the time comes.
-
-#### (WIP) Bass Clef transposition, 
-
-<font color = yellow> Although the calculation is done, the below still needs confirmation </font>
-- Read as clef is already correct, still need to check modifications.
+#### Bass Clef transposition
 
 | Instrument key | Modification | Read as Clef | Notes |
 | ---------------| -------------| ------------ | ----- |
@@ -110,28 +91,38 @@ The \* indicates the "true" clef that it should be read as to keep each clef uni
 | F#             | - 6 Flats    | Tenor Clef (Play A get D)||
 
 ### Extending this technique to transposing any clefs.
-So from transposing the bass clef, we found that that is a very specific ordering.
+So from transposing the bass clef, we found that there is a very specific ordering.
 
-Treble, Baritone, Alto, Soprano, Bass, Tenor, Mezzo Soprano, **Treble, Baritone, Alto, Soprano, Bass, Tenor, Mezzo Soprano**, Treble, Baritone...
+Order- Towards flat instruments:
+- Treble, Baritone, Alto, Soprano, Bass, Tenor, Mezzo Soprano, **Treble, Baritone, Alto, Soprano, Bass, Tenor, Mezzo Soprano**, Treble, Baritone...
+- We can memorize as "Trouble to Sobas Time".
+    - Trou: Treble
+    - B: Baritone
+    - Ble to: Alto (imagine blto, hey im the one that made this mnemonic, you can always make your own one)
+    - So: Soprano
+    - Bas: Bass
+    - Ti: Tenor
+    - Me: Mezzo Soprano 
 
 So if we want to convert to clef transposing any other types..
 
 We slot the concert pitch clef into the middle into C. Let's use Alto Clef
 
-#### C Instruments
+#### C Instruments (from Alto Clef)
 | Instrument key | Modification | Read as Clef |
 | ---------------| -------------| ------------ |
 | C              | nil          | Alto clef    |
 
-Then we create the other sixes in the same order.
+Then we slap on the other six clefs in the same order.
 
+#### Flat instruments (from Alto clef)
 | Instrument key | Modification | Read as Clef | Notes |
 | ---------------| -------------| ------------ | ----- |
 | Gb             | + 6 Sharps   | Baritone
 | Db             | + 5 Sharps   | Treble
 | Ab             | + 4 Sharps   | Mezzo Soprano
 | Eb             | + 3 Sharps   | Tenor
-| Bb             | + 2 Sharps   | Bass
+| Bb             | + 2 Sharps   | Bass         | Oooh, maybe I can go read some Viola songs! |
 | F              | + 1 Sharp    | Soprano
 
 Beautiful.
