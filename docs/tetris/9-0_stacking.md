@@ -24,15 +24,19 @@ It has a very distinct shape: like an ant's head with S/Zs as the feeler and it 
 
 An interesting thing about Hamburger stacking is that it can be chained into intself.
 
-#### Shachiku Train chain
+#### Shachiku Train
 Shachiku train is available when your wall distance is 4 and height difference is 2.
 
 Shachiku train is a fairly dangerous donation maneuver, it requires an S first, then an L piece, then two t pieces! 
 
-Shachiku train is extremely strong in downstacking if each hole is in a horse pattern moving in one direction.
+Shachiku train is extremely strong in downstacking if each hole is in a chess horsey pattern moving in one direction.
 
 Shachiku train is effectively hamburger stacking with an L to complete the TSD.
 
-Shachiku train can be chained into itself if you avoid doing the second TSD. In practice this would require you to stack properly on the left side, somewhat converting the stack into 7-2 until ready for tetrissing.
+Unfortunately, Shachiku train cannot be chained unless you use an 8-1 well or lower.
 
-Basically think of shachiku as an upgrade to hamburger as it performs a TSD intead of a TSS.
+#### Putting hamburger and Shachiku together:
+- In practice, this means you can always toss the S piece on the right side of the stack. 
+    - If it's a 3-distance, it's hamburger
+    - If it's a 4-distance, make sure you have an L available.
+- Then just make your T-spin slot and continue on with your day.

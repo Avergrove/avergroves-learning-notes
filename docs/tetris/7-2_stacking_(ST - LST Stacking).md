@@ -43,3 +43,12 @@ Sometimes you just have too many Ts in your queue bunched up together. Or maybe 
 Enter Purple Rain, the technique is an T-spin SSD (Single, Single, Double) that will help add jaggedness back into your 2 stack again and hopefully get your momentum back in spamming T-spins.
 
 https://harddrop.com/wiki/Purple_Rain_Setups
+
+## DT Cannon
+- Easily buildable when you 2-side is flat. Just slap on a J/L piece and you are good to go!
+- The remaining overhang can be handled in the following way:
+    - Build a 4-wide combo (not very strong in TETR.IO unless you have a well to utilize at the end)
+    - Anchor set: This doesn't really do "anything" on its own. It's mainly for counting to four to retain back to back
+        - Prophecy: If you know you are going to go this route, you can attempt to setup a TSD donation above. 
+    - Kaidan: If you used an S/Z pieces as your overhang, then you can pretend you are performing a Kaidan, just fill up the overhang side and do what you did in 9-0 stacking.
+    - S/Z spin: With TETR.IO's all spin update, this is actually a strong option. You can also T-spin in if you need to, of course.

@@ -23,6 +23,14 @@ Of course, you can play tetris just by spamming regular tetris but... why not le
 - Keybinds: I use a scheme of WASD + IJKL (Left/right + Hard drop / Soft drop   \<--\> Rotate CCW / CW + Hold / 180 degree rotation). Why did I use this scheme? Well honestly I don't know, it just felt intuitive to change it to this way when I first started..
 - Finesse: This is how efficient you move to each position / orientation with least key presses. This should be learned **as early as possible** before muscle memory kicks in.
 
+#### Stack Learning Order
+- Start with 9-0, then learn 6-3, then 7-2, and then finally leave 5-4 and 8-1 for last.
+
+#### Openers
+- To keep it simple, just learn TKI. You only need the first TSD to cancel your opponent's opener. 
+    - TETR.IO has a double defense system if you send lines for 14 lines and under, only if you havent sent any yet.
+    - ie a single TSD is going to defend against 8 lines at the start of the game (!)
+
 #### Tspins
 - Once you can do 9-0, start looking into basic T-spins! This is where you can read up as much as you want.
 - Learn the basic TSD: Imagine a T-shaped hole, then cover one side and slot in!
