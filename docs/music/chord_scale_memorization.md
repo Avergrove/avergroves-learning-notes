@@ -45,17 +45,49 @@ So we want to simply assign the three tension level of scales to the 7 chord:
 ## What about the other scales? (The special cases)
 There's no way around this (yet as far as I'm aware), use them when you feel that you should. Just like learning TSDs in Tetris, you won't know when to use them if you never use it, so make sure to keep them in mind when experimenting!
 
-### Altered Scale
-- Altered scale is said to "fit" a dominant chord. However it will only fit if you want the chord to actually lead to something. Because the altered scale doesn't technically fit it perfectly.
+### The "Outside" scales
+These scales are typically used to introduce tension to a song.
 
-### Harmonic Minor Scale
+#### Altered Scale
+- Altered scale is said to "fit" a dominant chord, but only in the context of using the dominant to introduce tension. In reality it doesn't fit it by our usual definition.
+
+#### Whole tone scale
+- Fundamental chord: Augmented chord
+- Augmented chords are already pretty dissonant. They will work surprisingly fine with major triads.
+- If you are playing the whole tone scale, then there aren't any avoid notes. You can mash on your keyboard randomly with any button in the scale and it will still feel entirely coherent.
+- Memorizing the whole tone scale is "easy". Just pick all the white keys in the first cluster (CDE), then pick all the black keys in the second cluster (FGAB), invert for other whole tone scale.
+
+#### Diminished scale
+- Fundamental chord: Fully diminished 7th chord.
+- Interestingly you can still get a major chord somewhere in the scale for stability, so it's a lot less dissonant than you think.
+- Memo tip 1: Diminished scale is any two of the three unique diminished chords put together. So if you already have good memory of full diminished chords, you can use those.
+- Memo tip 2: It's easier to memorize WH using two minor scales of degree 1 to 4 put together, seperate by half tone.
+    - So starting from Bb, pick up first 4 degree and we get..
+        - Bb, C, Db, Eb
+    - Then slap on another minor scale, one half tone above.
+        - E, F#, G, A.
+    - And you're done! 
+- Memo tip 3: For HW, it might be easier to split the notes into two clusters of [root (1), phrygian (b2) + minor/major combo (b3, 3).], separate by whole tone.
+    - ie: 1, b2, (b3+3)
+    - So starting from C, pick up first 4 degree and we get..
+        - C, Db, (Eb, E)
+    - Now move up a whole tone and repeat
+        - F#, G, (A, A#)
+- Memo tip 4: Because of this halved minor scale behaviour, we can easily guarantee that we are partially playing the diminished scale already by hitting the 4 white keys at the half note boundaries.
+    - (D,E), (F,G), the boundary in thtis case is EF
+    - (A,B), (C,D), the bundaryh in this case is BC
+
+
+### The other "core" scales
+These scales aren't entirely dissonant and sometimes actually have whole songs revolving around them.
+
+#### Harmonic Minor Scale
+- Fundamental chord: MinMaj7
 - An alternative option to the standard minor scale. It doesn't fit a standard min7. But it does fit a minmaj7, a chord that's used in spy flicks.
+- It's not as dissonant as it sounds since we are already familliar with hearing the chord in spy action flicks.
 
-### Melodic Minor Scale
-- Also doesn't fit the min7 chord directly. 
-
-### Other scales
-- This is getting into exotic territory and likely it's best you experiment with playing wrong notes more as you go.
-
-## This is all too much
-- You are right. Technically speaking, we can just not play the Avoid notes... or do play the avoid notes if you want dissonance. 
+#### Melodic Minor Scale
+- Fundamental chord: MinMaj7
+- Like a major scale except the third is flattened. Works surprisingly well with major scale in adding bluesiness.
+    - To be fair that's literally what major blues is..
+- Similar to the whole tone scale, you can mash the keyboard with all the melodic minor scale keys and it will sound fine...

@@ -13,9 +13,13 @@
 - Another option in keeping B2B is chaining parapets on top of each other.
     - This is your only other option in helping your 1 side increase in height outside of using I pieces.
 
+    ### Inverted Parapet
+        - For when your stack is lower than your 1 column...
+
 ## STSD
 - Like Shachiku and Parapet except you use an inverted L piece on the 1 side.
     - King Crimson: An TST stacked on top of a TST, it requires an S piece, *then* only an inverted L piece on top. It's somewhat dangerous to use this, but a TDD attack is truly incredible..
+- STSD has a habit of continuing to leave 2 wide wells, so be careful when using it.
 
 ## 9-0 techniques
 - Remember all 9-0 techniques are still available to you! So you can always continue to do the ol' reliable of natural donations after building up the 1-side.

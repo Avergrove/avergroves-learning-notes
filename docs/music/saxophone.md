@@ -17,3 +17,5 @@ Or you can imagine poop coming out of a butt.
 Please squeeze out a nice, smooth, poop from a butt that shows your nutritional discipline instead of literal, crusty, musical doodoo poopoo full of holes.
 
 Thanks for coming to my TED talk.
+
+A good way to practice is using overtones. If you can play the second octave notes without using the octave key, it means you are pretty epic poggers and hit the tones correctly already. Now you just have to make the sound sound smooth and buttery.

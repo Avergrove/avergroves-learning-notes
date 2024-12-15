@@ -1,8 +1,7 @@
 # 9-0 Stacking
 - The beginner recommendation. There's a surprising number of techniques outside of just building Tetris(s).
 - 9-0 is also relatively forgiving when stacking, the wide left well allows you to be a bit more reckless with your pieces as there will likely by large flat areas.
-## Options:
-### B2B Maintaining:
+
 #### Natural donation:
 Basically cover the well with any piece, really.
 
@@ -40,3 +39,20 @@ Unfortunately, Shachiku train cannot be chained unless you use an 8-1 well or lo
     - If it's a 3-distance, it's hamburger
     - If it's a 4-distance, make sure you have an L available.
 - Then just make your T-spin slot and continue on with your day.
+
+### 4 Wide
+4-wide is a technique that is always available regardless of well. 
+In TETR.IO, combos apply a multiplier to your lines sent.
+
+This means as long as you build a 4wide on top of your tetris well, you should be able to send a whooping 12 lines with a single tetris after the combo!
+(Of course you still need to learn how to 4 wide..)
+
+### Extras
+#### "Advanced TST Props"
+- From Galactoids page. These are primarily used in 9-0 stacking.
+https://galactoidtetris.wordpress.com/2021/06/09/advanced-t-spin-triple-guide/
+
+- This works incredible well in 4x1 holes and beyond (eg 5x1, 6x1)
+    - But it's primarily for 4x1
+
+- Go memorize them, really!

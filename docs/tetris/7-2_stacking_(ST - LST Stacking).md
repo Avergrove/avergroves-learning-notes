@@ -45,7 +45,7 @@ Enter Purple Rain, the technique is an T-spin SSD (Single, Single, Double) that 
 https://harddrop.com/wiki/Purple_Rain_Setups
 
 ## DT Cannon
-- Easily buildable when you 2-side is flat. Just slap on a J/L piece and you are good to go!
+- Easily buildable when you 2-side is flat. Just slap on a J/L + SZ piece and you are good to go!
 - The remaining overhang can be handled in the following way:
     - Build a 4-wide combo (not very strong in TETR.IO unless you have a well to utilize at the end)
     - Anchor set: This doesn't really do "anything" on its own. It's mainly for counting to four to retain back to back
