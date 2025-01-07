@@ -23,16 +23,7 @@
 - Speaking of which.. it's an extremely good idea to practicing downstacking! I practice downstacking using Dig in Techmino in my free time.
     - (You can unlock Dig either by playing the game normally, or using the console command to unlock all modes.)
 - Feel free to start learning TSDs! Go for some natural ones if you'd like. The core rule of thumb is that *Do not compromise your stack for a TSD, it's not always worth it*
-- You can also start looking into openers. I categorize them into two types: Freestyle and Kill openers
-    - Freestyle openers: These openers usually help you transition into mid-game safely.
-        - TKI: The classic, it's an opener that sends a TSD on the first bag... the rest is up to you!
-            - Realistically, only the "first bag" is TKI, the rest is follow up, you can study the rest in your free time!
-            - https://four.lol/openers/tki
-        - MKO: It's like the LJ version of TKI, sends a TSD.. on the second bag, but it transitions into 6-3 stacking effortlessly so it's great for practicing!
-            - https://four.lol/openers/mko
-        - PCO: Perfect clear opener, doesn't necessarily get you to mid-game safely but.. it's great for learning twists.
-    - Kill openers: These are openers that send strong spikes. They can possibly turn into crutch if abused.
-        - SDPC (Extended SDPC, Nakamuraa's Voracity, Stickspin)
+- You can also start looking into openers! I categorize them into two types: Freestyle and Kill openers.. but don't look too much into them.
 
 ## S Rank
 - It is now extremely important to learn <b>Offense and Defense</b>.
@@ -76,6 +67,8 @@
     - MKO (Early LJ): Slightly later TSD but still good, teaches 6-3 stacking!
     - <a href="https://four.lol/openers/hachispin">Hachispin</a> (Early O): It's a Single-Triple! But more importantly, this is the foil to SDPC and Stickspin as those use early-O too. Cancels whatever they send and helps create a clean stack!
     - 6-3 (Early SZT): Not technically an opener, but it's a good way to start a game in general.
-- In addition, you should also study what the enemy opener does so you can time properly:
+    - The main thing these all have in common is that they *freestyle openers* they help you survive early game and have versatile options afterwards. (Downstack? 6-3? LST Stack?)
+- In addition, you should also study what the kill openers does so you can time properly:
     - SDPC (Extended SDPC, Nakamuraa's Voracity)
     - Stickspin (Stickspin)
+    - Kill openers can become a crutch if overused. Please don't end up as a 3pps opener to 0.8 pps mid-gamer..

@@ -1,4 +1,4 @@
-# 7-2 Stacking - ST / LST Stacking
+# 7-2 Stacking
 7 columns on the left, 2 columns on the right (or vice versa.)
 
 The main gimmick of using 7-2 stacks is that you will usually only be using one or two piece type on the 2 side, depending on ST or LST stacking style.
