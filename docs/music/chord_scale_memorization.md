@@ -1,7 +1,7 @@
 # Chord Scale Memorization
 - Chord scales is a fundamental knowledge in Jazz. The gist is that you can fit your typical chord into any existing scale.. if they make sense.
 - For example, with a C Major, we have C E G.
-- The C Major scale has C D E F G A B C, which consist of all the notes in a C major 7, therefore C Major 7 fits the scale C Major.
+- The C Major scale has C D E F G A B C, which consist of all the notes in a C major 7 (CEGB), therefore C Major 7 fits the scale C Major.
 - It also fits the C Lydian scale: C D E F# G A B C, which also consists of all notes in C Major 7. Therefore C Major 7 fits the C Lydian mode.
 - We can keep things simple by grouping scales that fit together easily. 
 

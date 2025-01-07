@@ -6,6 +6,7 @@
 - When two walls are 3 wide apart, 
     - You can use an S/Z piece (2 length) piece to create a TSD slot.
         - This is technically STMB Cave.
+    - You can also use an S/Z piece to create a TSD slot... when placed vertically.
     - You can use a J/L piece (2 length when upright) to create a TSD slot.
         - This is Parapet.
     - If you are next to a wall (with a hole, usually during 9-0), you can do a T-Spin mini-single to create a TSD slot.

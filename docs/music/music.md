@@ -9,7 +9,7 @@ Feel free to skip all this if you'd like, I just want to log down what happened.
 I always wanted to play a saxophone except... wow, it's pricey! $1.2k? Seriously?
 
 Anyway, I saw an ukulele store, and was like, sure, let's start with an ukulele, that sounds fun!
-That storekeeper was really friendly, he quickly taught me the four basic chords: C, F, G, A. Great! 
+That storekeeper was really friendly, he quickly taught me the four basic chords: C, F, G, A. Fantastic! 
 
 I had no idea what happened, but I did have fun. Except there was one problem.
 

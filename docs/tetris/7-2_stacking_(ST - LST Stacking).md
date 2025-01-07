@@ -25,24 +25,18 @@ Just like ST stacking, but now with L and S on the side. Note you don't really b
 
 In theory, stacking Ls and Ss long with Js and Zs will automatically do this for you. In practice, this is a luxury, most of the time you need to improvise mixing between the center and the right.
 
-For me, LST was more intuitive and "more lenient" since you can build fractals and stall by "doubling up" Ss and Zs while waiting for Ts. Unlike ST stacking, the height usually won't flunctuate too dramatically even with a dependency.
+"Doubling up" is when you stack double S/Zs on the LST side. You usually do this when there begins to be a height difference on the LST side and the other side.
 
-## Hybrid stacking
-I don't think this really has a name yet.
+Realistically, despite being called LST, you really should be using every tool in your disposal to keep TSD-ing! Go for donations, ST Stacks, Purple Rains -> Yoshihiro SD!
 
-In a real game if you have less experience (like me), it's more likely you will use a mix of the two. This can be done by first building the 7 side with either 1 or 2 gaps, then build the left accordingly. This will allow you to use a mixture of Ls for one-gaps, and Ss for two gaps.
-
-You can also use 4-gaps, this functions like a double-up as in LST.
-
-I guess you can call it a form of prophesizing.
-
-
-## Purple Rain
+## Purple Rain -> Yoshihiro SD
 Sometimes you just have too many Ts in your queue bunched up together. Or maybe your two side is just dead flat, or of similar height difference to your 7 side and makes ST / LST difficult.
 
 Enter Purple Rain, the technique is an T-spin SSD (Single, Single, Double) that will help add jaggedness back into your 2 stack again and hopefully get your momentum back in spamming T-spins.
 
 https://harddrop.com/wiki/Purple_Rain_Setups
+
+For purple rain to work, you need to have a 1-block difference to the next hole.
 
 ## DT Cannon
 - Easily buildable when you 2-side is flat. Just slap on a J/L + SZ piece and you are good to go!

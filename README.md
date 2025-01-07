@@ -1,6 +1,6 @@
 
 This actual page is currently served on...
-https://avergrove.github.io/avergroves-learning-notes/docs/music/extension_of_the_key_signature_values_technique
+https://avergrove.github.io/avergroves-learning-notes/docs/music/
 
 Repo might need some adjustments before I get used to it haha
 

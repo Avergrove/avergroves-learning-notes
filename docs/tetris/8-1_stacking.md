@@ -26,3 +26,7 @@
 
 ## Hyper Fractal
 - If you don't care about back to back, hyper fractal is a strong defensive option. Hyper fractals will keep the tetris hole open at any given time, while you build up TSD slots for spiking.
+
+## 8-1 Stacking sprint achievement
+Interestingly, you can stack in a very 5-4 pattern-ny way, using LOJ boxes and SZTs together! The video here should showcase this well enough:
+https://www.youtube.com/watch?v=ZULdjuwsUAs
