@@ -4,6 +4,8 @@
     - Please read these references, these notes I put here are only for quickly jotting up memory for practicing.
     - https://galactoidtetris.wordpress.com/2020/04/13/additional-t-spin-upgrade-guide/
     - https://galactoidtetris.wordpress.com/2021/06/09/advanced-t-spin-triple-guide/
+    - https://galactoidtetris.wordpress.com/2024/12/09/turning-all-parity-imbalances-into-t-spins/
+    - https://galactoidtetris.wordpress.com/2024/12/22/improving-setup-consistency/
 
 - 2-wide holes should generally be addressed as soon as possible because failure will break B2B.
 - A 2-wide hole is officially "dead" if it's taller than 2 height. Only I-pieces can fix it.
@@ -19,3 +21,6 @@
 - Failed STSDs can be salvaged with..
     - Boomerang
     - Fin / Neo TSD
+
+- Parity error Tspins (1 height difference)
+    - Go for an STSD!
