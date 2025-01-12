@@ -1,9 +1,15 @@
 # Rank Studies
-- These are suggested learning according to each rank, based on my experience, you can of course skip ahead to upper level topics if you want!
+- These are suggested learning according to each rank, based on my experience, you can of course skip ahead to upper level topics if you want! (Just don't forget to keep practicing the fundamentals..)
 
 ## C Rank
 - Go practice clean stacking! Try and finish 40l sprints in 2.5 minutes.
     - Clean stacking basically means stacking flat! What is stacking flat? Well... just avoid making big craters!
+- Techmino's Tetrodictionary recommend the following:
+    - Finish 40l without topping out
+    - Finish 40l with no hold without topping out
+    - Finish 40l with Techrashes (Tetris) only
+    - Finish 40l with Techrashes only without hold.
+- Stacking flat makes the next move obvious and gives more potential pieces to be used! So always stack flat.
 
 ## B rank
 - Just learn to stack cleanly and send tetrisses, you will be fine!
@@ -27,7 +33,7 @@
 
 - Speaking of which.. it's an extremely good idea to practicing downstacking! I practice downstacking using Dig in Techmino in my free time.
     - (You can unlock Dig either by playing the game normally, or using the console command to unlock all modes.)
-- Feel free to start learning TSDs! Go for some natural ones if you'd like. The core rule of thumb is that *Do not compromise your stack for a TSD, it's not always worth it*
+- Feel free to start learning T Spins! Go for some natural ones if you'd like. The core rule of thumb is that *Do not compromise your stack for a TSD, it's not always worth it*
 - You can also start looking into openers! But don't look too deep into them.. lest they stare back..
 
 ## S Rank

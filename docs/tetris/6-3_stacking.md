@@ -1,7 +1,7 @@
 # 6-3 Stacking
-The "Standard" in T-spinning efficiency.
+The de-factor "Standard" in stacking.
 
-Typically the second stacking style learned after 9-0, for two reasons:
+Typically the second stacking style learned after 9-0, for good reasons:
 - Sprinting: Less KPP is needed to stack up quickly and knock em down quickly.
 - VS: Modular T-spin pattern stacking on the 3-side helps ensure your piceces are in good balance.
 
@@ -13,3 +13,5 @@ Typically the second stacking style learned after 9-0, for two reasons:
     - They're also called chip tooths. Because they're like teeth... that are chipped... actually don't search it up, why did i search it up oh my god it's painful to look at.
     - Stacking hearts is also a fundamental technique of ST stacking. So after comfortably learning to comfortably stack 6-3 with minimal waste, go ahead and look into ST stacking.
         - Also, please take note using Ts to fix parity is not really "waste". The alternative is crapping on your stack for a single TSD that your opponent will probably use against you anyway. Don't crap on your stack unless you are sure you can win the game with it.
+
+- Once you are comfortable with making hearts, try perform TSD upgrades! 

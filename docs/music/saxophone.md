@@ -1,4 +1,6 @@
 # Saxophone
+Melody section instrument in the jazz trifecta (Melody, rhythm, percussion)
+
 ## Fundamentals
 By fundamentals, I mean embouchure and air support! 
 
@@ -18,15 +20,16 @@ Try and memorize this each time you start playing to get familliar to it!
 ### Breath:
 1) You should stop the air with your tongue. Not your throat
     - Failure to do this will result in the "ugh" sound. Which is very funny, but you definitely don't want that in a concert.
-    - This follows up with the breath air out with the "tu" sound
+    - This follows up with the tip of breathing the air out with a "tu" sound
 2) Breathing in: You should use deep breathing, this means you should feel your stomach inflating and your chest shouldn't rise up.
 3) Breathing out: Brace your core, be ready to untongue, breathe out.
-4) Exercising breathes: Try and put tissue paper on the wall, and breathe out in a control manner getting the tissue to flutter smoothly in the air.
+4) Exercising breathes: Try and put tissue paper on the wall at fist distance, and breathe out in a control manner getting the tissue to flutter smoothly in the air.
 
 ### Saxophone placement:
 - When standing..
-    1) Try and push the saxophone forward with *only your thumbs*. You should be able to rotate the saxophone upwards and downwards into your mouth.
+    1) Try and push the saxophone forward with *only your thumbs*. You should be able to rotate then the saxophone upwards and downwards into your mouth.
         - If the mouthpiece is on your nose / on your chin, you probably need to adjust your neck strap.
+        - Remember, the "correct" position is that the neck is parallel to the floor, so try to adjust accordingly!
 - When sitting down
     1) You may notice that your neck is now slanted. So to achieve "neck parallel to the ground", you rotate the mouthpiece.
         - So technically speaking, it's the mouthpiece we want to be parallel to the ground the whole time.

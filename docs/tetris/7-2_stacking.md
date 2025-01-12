@@ -27,7 +27,7 @@ In theory, stacking Ls and Ss long with Js and Zs will automatically do this for
 
 "Doubling up" is when you stack double S/Zs on the LST side. You usually do this when there begins to be a height difference on the LST side and the other side.
 
-Realistically, despite being called LST, you really should be using every tool in your disposal to keep TSD-ing! Go for donations, ST Stacks, Purple Rains -> Yoshihiro SD!
+Realistically, despite being called LST, you really should be using every tool in your disposal to keep the TSD chain going! 
 
 ## Purple Rain -> Yoshihiro SD
 Sometimes you just have too many Ts in your queue bunched up together. Or maybe your two side is just dead flat, or of similar height difference to your 7 side and makes ST / LST difficult.
@@ -36,7 +36,7 @@ Enter Purple Rain, the technique is an T-spin SSD (Single, Single, Double) that 
 
 https://harddrop.com/wiki/Purple_Rain_Setups
 
-For purple rain to work, you need to have a 1-block difference to the next hole.
+For purple rain to work, you need to have a 1-block difference to the next hole. (1-sided fractal slot.)
 
 ## DT Cannon
 - Easily buildable when you 2-side is flat. Just slap on a J/L + SZ piece and you are good to go!
