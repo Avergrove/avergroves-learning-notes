@@ -8,7 +8,7 @@
     - If you create a 2 wide well above a TSD, you can skim into a Trinity!
         - You would be surprised how frequently this happens..
 
-<img src="/resources/tetris/grim_grotto.png"/>
+<img src="../assets/tetris/grim_grotto.png"/>
 
 ## Shallow Grave
 - Shallow Grave: Slotting in a J/L into a lopsided TSD slot will equalize the height of both sides
