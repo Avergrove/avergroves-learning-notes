@@ -15,3 +15,19 @@ Typically the second stacking style learned after 9-0, for good reasons:
         - Also, please take note using Ts to fix parity is not really "waste". The alternative is crapping on your stack for a single TSD that your opponent will probably use against you anyway. Don't crap on your stack unless you are sure you can win the game with it.
 
 - Once you are comfortable with making hearts, try perform TSD upgrades! 
+
+
+## Sprinting as an Algorithm
+- Pattern stacking mode:
+    - SZT on the left stack
+    - O and I + (LJI on center stack)
+    - LJ + SZO on right stack.
+- If LJ order doesn't come sandwiched with SZO in the center, then tough luck.
+    - Try and revert to pattern stacking as soon as you can
+
+
+### Next:
+- We need to spend some I pieces to clear a tetris.
+- 2x I piece on tetris well
+
+- Spend 1x 

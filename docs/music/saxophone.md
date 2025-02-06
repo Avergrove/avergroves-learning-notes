@@ -54,7 +54,7 @@ Try and memorize this each time you start playing to get familliar to it!
 ***Primary goal***: To play the saxophone without any tension in the body
 - The sax should only be held by the strap
 - Your finger is only allowed to perform pushing. No lifting allowed!
-- An excessive tilt on your saxophone will result in your strap not doing its job. When playing the sax on the side, this might cause the left thumb to have to lift into angle! So you should adjust your harness accordingly.
+- An excessive tilt on your saxophone will result in your strap / harness not doing its job. When playing the sax on the side, this might cause the left thumb to have to lift into angle! So you should adjust your strap / harness accordingly.
 
 - When standing..
     1) Try and push the saxophone forward with *only your thumbs*. You should be able to rotate then the saxophone upwards and downwards into your mouth.
@@ -97,4 +97,4 @@ So we need to look into two exercises
 ### Saxophone Placment
 - Your forearm to fingers hand should be straight! (Remember the basic form when drawing hands is two rectangles... no bending allowed! It should be one straight line across on top)
 - The saxophone is not supposed to point directly forward while playing. So you don't have to obsess over that.
-
+- Is your strap / harness adjusted accordingly? You can try offsetting to one side of or the other since your saxophone will typically lean a bit to one side!

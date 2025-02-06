@@ -6,19 +6,44 @@ So 7-2 stacks become a game of balancing your remaining 5/6 piece types on the 6
 
 The two main stacking type for 7-2 stacking is ST and LST stacking.
 
+Galactoid has a fantastic overview on how to handle 7-2 stacking! 
+
+Basically, you can try LST and ST, but you should learn how to resolve parity on the 7-2 side.
+
 
 ## ST Stacking
 
 According to four.lol, ST stacking is something that can be learned by anyone in anytime, because it promotes good queue watching. And they're right.
 https://harddrop.com/wiki/ST_Stacking_Setups
 
+A video tells about a thousand words per frame:
+https://www.youtube.com/watch?v=PU9q0He6sOk
 
+### Opening:
+- Your opener should ideally follow these 3 rules:
+    1) You should use 2x T pieces on the left 4 columns
+    2) Column 5, 6, 7 should have a flat top for set up for 3. (An O piece + any J/L piece next to each other will do for this)
+    3) Use one red Z piece in the stack. Usually this is paired with the Blue J piece on the center 3-stack.
+
+### Middle-game:
 The gist is simple, slap an S or Z on one of the sides, and get stacking hearts on center and freestyle on the side.
-In theory, everything will happen smoothly, the hearts go on center, the rest goes on side.
+In theory, everything will happen smoothly, the hearts go on center, the rest goes on side. 
 
-In practice, mixing happens a lot. Also attempting to use your S/Z piece on the main stack will easily cause a huge dependency and height difference, thereby terminating your stack.
+The when the Z stack grows high enough, Tetris, straightfoward!
 
-ST stacking is still useful to learn even outside of 7-2 stacks since you can get a 2-side scenario occasionally in 6-3 and 5-4 stacks.
+### Middle-game 2 at 40 lines:
+By 40 lines (about 20 TSDs), you will notice that you might be suddenly unable to continue the pattern.
+This is because you were slowly spending your I tetriminoes to clear the well, dwindling your left height overtime.
+
+So to reset this, you need to perform.. a reset...
+
+This means you have to use 2x T pieces and 2x Z pieces on your left stack, good luck!
+
+Alternatively, you have a Z piece advantage. If you didn't spend you extra Z piece on the stack... you can use it to recuperate height, but try to complete the 2x T and 2x Z on the left as soon as possible!
+
+### Japanese style
+#### Opening:
+- Use 2x Z piece in the stack, 1x T to T-spin mini, then stack "normally".
 
 ## LST Stacking
 Just like ST stacking, but now with L and S on the side. Note you don't really build hearts in the middle anymore, but instead try to build alternating 1-2 sawtooth gaps in the center.
@@ -29,6 +54,26 @@ In theory, stacking Ls and Ss long with Js and Zs will automatically do this for
 
 Realistically, despite being called LST, you really should be using every tool in your disposal to keep the TSD chain going! 
 
+### Parity resolution
+- If you've messed up the 1-2-1-2 pattern on LST stacking, you can try using the following to recover:
+    - Zipper: Used to create fractals. A grim grotto skim that narrows the hole into the well.
+
+## Parity Resolution
+- If you notice, there are 3 configurations on the 2 side, it can be jag in (hole is closer to center of board), jag out, and flat. You should try and pay attention and learn how to resolve this parity!
+- LST uses a jag in and flat. 
+    - Jag-in: Place an S/Z piece
+    - Flat: Place a J/L piece
+- When Jagged-out, you can use a single T piece to convert back to jag-in.
+
+The following techniques will is a list of possible solutions you can use
+    - STSD
+    - BT STSD
+    - DT Cannon + Triple Double
+    - Purple Rain + Yoshihiro SD
+
+As always, none of this will work if your 7-stack is waaaay too high up already without any prophecy solutions.. stack flat!
+If you can't immediately see a solution, try and leave a 5-wide hole around your well. You should still have plenty of workspace to do things!
+
 ## Purple Rain -> Yoshihiro SD
 Sometimes you just have too many Ts in your queue bunched up together. Or maybe your two side is just dead flat, or of similar height difference to your 7 side and makes ST / LST difficult.
 
@@ -37,6 +82,7 @@ Enter Purple Rain, the technique is an T-spin SSD (Single, Single, Double) that 
 https://harddrop.com/wiki/Purple_Rain_Setups
 
 For purple rain to work, you need to have a 1-block difference to the next hole. (1-sided fractal slot.)
+
 
 ## DT Cannon
 - Easily buildable when you 2-side is flat. Just slap on a J/L + SZ piece and you are good to go!

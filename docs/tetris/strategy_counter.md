@@ -11,10 +11,17 @@ This page talks about the theoretical counter to each playstyle
 ### Sub-topic: Non Openers
 - Your opponent will not attempt to build up at all the start of the game.
     - You can send cheese garbage, which can nullify their plonk advantage.
+    - Attacker Tip: You can pay attention to where the first garbage is sent to them and build first accordingly! 
+        - The garbage generation order on both sides is identical.
+        - So if the first pile of garbage that spawns on the enemy side is on column 2, then you can start funnelling around column 2!
+        - The garbage will still be in the first location even if you cancel it partially or fully. If partially, then the same amount of garbage spawn, if fully, then the next set will spawn there.
 
 
 ## Blitzer (Pressurer)
 - Your opponent will attempt to to use consistent damage against you. You should break their momentum by sending dirty garbage so they can't keep up their back to back
+
+### Mech TSD
+- Your opponent will attempt to repeat TSDs.
 
 ## 2 Wide
 - Your opponent will attempt to build a 2-wide and finish it off with a quad.

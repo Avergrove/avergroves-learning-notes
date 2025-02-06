@@ -4,6 +4,7 @@
 ## C Rank
 - Go practice clean stacking! Try and finish 40l sprints in 2.5 minutes.
     - Clean stacking basically means stacking flat! What is stacking flat? Well... just avoid making big craters!
+    - Also, pay attention to what piece you just used, if you just used X, don't make an X dependency!
 - Techmino's Tetrodictionary recommend the following:
     - Finish 40l without topping out
     - Finish 40l with no hold without topping out
@@ -58,7 +59,7 @@
     - This ruleset to pretend the opponent is watching your board at all times, the moment you block your hole, you are dead.
 
 ### Defense
-- There is an extremely likely chance that your opponent will start the game with (Extended) SDPC / Nakamura's Voracity and Stickspin, you will need to learn how to handle them appropriately in order to advance the ranks!
+- There is an extremely likely chance that your opponent will start the game with (Extended) SDPC-Spin and Stickspin, you will need to learn how to handle them appropriately in order to advance the ranks!
 - Early game defense: So the first thing you want to do is survive the early game. The generic game plan is set up and TSD or Tetris as soon as possible
     - Then, wait for a bit! It's a bit awkward having to look at that TSD slot and do nothing with it, BUT, the alternative is dying, or worse, you send clean garbage and give your opponent more firepower, think carefully before sending that TSD / Tetris!
 - Mid-game defense: Most spikes are about 10 height high. So if you build below 10 blocks, you should be mostly safe, but...

@@ -4,13 +4,17 @@ This page assumes your TSDs are built on top of a T-spin well. These are also th
 ## TSD Stacking
 The first category is stacking TSDs on top of TSDs.
 
-### Fractals
+### Fractals (Spider, Double Dagger)
 Fractals are THE most premiere and natural TSD upgrade, it's effectively stacking up a TSD on a TSD!
 - They're fantastic because they don't block the Tetris well, you will always be "safe" as long as you hold onto a T or I piece!
-    - They're also the only option that doesn't block the tetris well at all..
-- They also tend to have symmetric piece requirements due to how fractals are symmetric.
-- However, they can also be somewhat difficult to build without using T shapes nor skimming.
+    - They're also the only option that doesn't block the tetris well at all
+- Fractal 1: True fractals, they are two TSDs layered on top of each other with overhang on both sides
+- Fractal 2: Half-sided fractal, the fractal on top is floated higher. 
+- Fractals can also be difficult to build without using T shapes nor skimming.
 - Skimming: The two technniques used for creating fractals is Zipper (LSZT) and Hyper Fractal (LJ) 
+    - Zipper: You cover off both side overhangs of a TSD using Grim Grotto (SZ Skim)
+    - Hyper Fractal: You cover off both side overhangs of a TSD using Shallow Grave (Cremate, LJ Skim)
+    - Both these techniques are used to equalize height differences.
 
 ### Cut Copy / Uncut copy
 Cut copy is a TSD cut in half with another TSD slotted in between. 
@@ -61,3 +65,9 @@ Uncut copy is effectively fractals shifted sideways.
 - Yields 3 TSDs! 
 - The main issue is that it's extremely unlikely that you have 3 TSDs back to back. You need to perform two TSDs before you can access your quad well again!
 - Because Trinity is 3 TSDs in one, it wll help while your parity is lopsided and offset by one.
+
+### Overall Construction
+- When parity is lopsided, look to build a Trinity, which can help make your terrain flat again.
+    - Basically notice when your terrain is spiky. Feel free to use a T piece to fix it first then continue building a Trinity!
+- When parity = 0, you can look to build any double TSD setup. (Cut copy, uncut copy, fractal, STSD, etc)
+- DT Cannon: Does Tspin triple affect parity?
