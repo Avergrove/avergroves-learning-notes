@@ -66,8 +66,5 @@ Uncut copy is effectively fractals shifted sideways.
 - The main issue is that it's extremely unlikely that you have 3 TSDs back to back. You need to perform two TSDs before you can access your quad well again!
 - Because Trinity is 3 TSDs in one, it wll help while your parity is lopsided and offset by one.
 
-### Overall Construction
-- When parity is lopsided, look to build a Trinity, which can help make your terrain flat again.
-    - Basically notice when your terrain is spiky. Feel free to use a T piece to fix it first then continue building a Trinity!
-- When parity = 0, you can look to build any double TSD setup. (Cut copy, uncut copy, fractal, STSD, etc)
-- DT Cannon: Does Tspin triple affect parity?
+### Upgrade Chaining
+- STSD and C-Spin leaves behind a natural TSD slot after the first T-spin. This is the ideal slot used for upgrades! It already has an overhang on one side so you can just pick and select on the other!

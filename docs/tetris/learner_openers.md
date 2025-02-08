@@ -1,48 +1,50 @@
 # Opener catalog
-- These are the openers I've looked into using:
+- These are the opener I'm using:
 
-## Early Defense, Versatile openers
-- The main objective of an opener is to help you transition safely to the mid-game, so these are the ones I focus on learning:
-
+## Early I Opener
 ### TKI
 - Early I opener
 - Great for learning 7-2 stacking. Starts with an early TSD for defensive measures if needed.
 - (Remember, you don't have to pop that TSD immediately! Just keep building up and staying flat!)
+- Flat top TKI is also the traditional choice to transition into LST.
+- The end of the opener is a flat shape. So garbage hole access is relatively safe.
 
+## Early LJ Opener
 ### MKO
 - Early LJ opener
 - Like TKI except for LJ bags. Transitions seamlessly to 6-3
-- It's a bag two TSD, but still incredibly versatile, just like TKI!
+- It's a bag two TSD, but still incredibly versatile, being able to also transition to 7-2, 6-3, and 5-4 at the same time! 
+    - This means you can adjust accordingly to where the garbage is at 30% chance.
+- Flat end opener.
 
-### Hachispin
-- An early O opener. Starts with a Single to a Triple, the rest is up to you!
-- Can transition to either 7-2 or 6-3.
-- Serves as a foil to Stickspin, the Single cancels the single, the triple neutralizes and sends a fugly 2 lines to the stickspinner, so they can't end on a quad.
+## Early O Opener
+### SDPC: 
+- "Early" O opener. Early is in quotation marks because you can use it whenever SZT doesn't before that..
+- The most common usage is SDPC spin. It deals massive damage. But please don't abuse it.
+- The end of the opener is a funnel shape. You might get unlucky and get garbage in the sides.
 
-### Beacon
-- Filler opener. Transitions seamlessly to 6-3
-- Also great for learning Hamburger stacking
+### Early SZT Opener
+### Divorced Gassho
+- Early SZT opener. Technically it's a 100% opener as long as you put the S/Z on the side first depending on whether L or J comes first.
+- Transitions to 6-3. Sends Bag 2 TSD -> Fractal. 
+- There's also a DT cannon -> ST cannon continuation if you want to learn it. Though stacking it can be very awkawrd.
+- The opener is not very flat.. But it still is a 100% opener. Your opponent likely doesn't have a TSD in bag one too if you both start from an SZT game however.
+- Funnel shaped opener end.
 
-## Kill Openers
-- Kill openers focus on overwhelming the opponents right from the start of the game, they powerful, but can turn into a crutch if overused, resulting in a weak mid-game.
-- Use them if you want to increase your TR, but honestly, you should focus on learning to neutralize these instead of joining them so you can improve!
-
-### SDPC: Extended SDPC and Nakamuraas Voracity
-- Extended SDPC: Like SDPC but coupled with hamburger stacking x2
-- Nakamuraa's Voracity: Basically a long series of T-spins that get increasingly dangerous
+## Other openers
+- The ones I haven't been using. These are also just for reference.
 
 ### Stickspin
-- Like SDPC, but not SDPC.
-- To be honest, (extended) SDPC is kind of more dangerous.
+- Like SDPC-spin, but not SDPC-spin.
 - Sends T-spin Single, Double, Triple, Double
-
-## Extras
-These may not be practical in game, but they are nevertheless useful in learning new technique
+- The (in)famous opener is well known for counterspiking.
+    - Due to S2's change of double garbage cancellation in the first 14 piece, the TSD offset for cancelling the first TSS no longer works...
+        - Actually, this may need some confirmation, if I cancel double line, does that mean I send 3 lines?
 
 ## PCO
 - Perfect Clears dont' deal as much damage in S2 in TETR.IO, but, they do serve as a great stepping stone to learning Twist moves!
-- They also provide a flat terrain even if you don't get the PC off!
+- They also provide a flat terrain even if you don't get the PC off. So you have fast access to the garbage hole.
 
 ### FinT Cannon
-- Early SZT opener (!)
-- Great for learning Fin T-spins, one of the more practical new-T-spins
+- Early SZT opener
+- Great for learning Fin T-spins.

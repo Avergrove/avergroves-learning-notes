@@ -6,3 +6,5 @@
 - The two main Tetris clients I use is TETR.IO and Techmino. 
     - TETR.IO since well, the UI is really fantastic! 
     - Techmino since it's available for playing on Android, which means I can just pick it up while I'm on a commmute. It's a fantastic option with plenty of game modes to improve each aspect of your play!
+
+- These are tips that I wrote down for self-reference if there's something I want to improve, they may be outright wrong sometimes, so read them with a grain of salt!
