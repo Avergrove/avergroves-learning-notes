@@ -9,10 +9,11 @@ Bleeding hearts is the reversed mod for Duos! It's only available on Valentines 
 - (WIP) General guideline:
     - Avoid back to backs, they cause the garbage to increase in height a lot more quickly than intended.
     - Opener: 
-        - One person should build a 9-0, up to a quad.
+        - Both person should build a 9-0, up to a quad.
+        - This quad is then sent to each other. Any more lines above are skimmed off.
     - Ideal board state:
-        - Both players should send this quad. The other player will pass this quad back.
-        - The other pieces are used to single skim anything from above, breaking back to back.
+        - Both players will volleyball this quad back to each other.
+        - Any other pieces are used to single skim anything from above, breaking back to back.
         - Any higher rows are skimmed off, **breaking back to back**.
             - We don't want back to back because this will cause the garbage stack to grow over time. There's plenty of external garbage coming in already.
     - Recovery: 
