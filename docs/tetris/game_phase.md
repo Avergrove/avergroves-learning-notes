@@ -46,7 +46,7 @@ Mid game is chaotic. I've listed this in-point, you don't have to work on all of
 
 - The most likely way to kill your opponent is to do a combo downstack to a quad. Look up funnelstacking
 - Don't send clean if your opponent is at the bottom of the board. This only accelerates your defeat.
-
+    - To show how
 
 
 

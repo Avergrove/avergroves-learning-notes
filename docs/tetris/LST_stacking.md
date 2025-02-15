@@ -2,7 +2,12 @@
 LST Stacking deserves its own little section because it's incredible versatile and SHOULD be used with center wells! But it's primarily a 7-2 thing since it gives you more stacking leeway!
 
 I'm trying to write tips beyond "stack flat" here, but I'll still put them here so we have a neat little list, please take note of these in point-by-point!
+I am also by means an LST expert (I haven't done a 20TSD successfully yet), the entire point of this document here is to showcase what I observed from trying to stack it.
+These are points are primarily aimed towards VS. If you want to spam TSD, Mech TSD would be your better bet since it's pattern stacking.
 
+0. Before you learn to run, you must walk! If you can't LST stack, then just do a "normal" stack. As an exercise, try doing a 40L sprint with only quads and TSDs. It will give you a general idea on how to manipulate the jag side and control height.
+    - I would even encourage starting with an opener: In particular TKI or any that can versatilly transtion to 7-2. (Hachispin, MKO, Hitosura TSD (HTSD) / Hyperspin). Try and hit the ground running!
+    - Alternatively, try and hit B2B x20 in Zen!
 1. First usual point: Keep your 7 side flat. And keep the height difference around the chasm near zero, these are the most important points, I will keep saying this.
 2. Do not compromise your stack for a TSD. LST is strong consistent pressure, but it's not worth crapping on your stack for it. Build up if you need.
 2. For each TSD performed, you have an 8 tile residue. This means you will always be able to perform a TSD with each bag.
@@ -31,3 +36,6 @@ I'm trying to write tips beyond "stack flat" here, but I'll still put them here 
     - The LJ phase of the stacking can be STMB Caved, and nothing is stopping you from doing donations (IF you can keep your stack clean, of course.)
     - If you have excess Ts coming too early, you can consider using Purple Rain to return to a jag-in configuration.
     - LT stacking is entirely valid, too! The heart column on the 7-side is stacked identically to ST stacking. But you will be using S in it this time.
+    - If you have an LJ/SZ desync, you can go for an LJ spin an SZ spin.
+11. If you can't find an immediate solution, you can build heart shapes of varying heights between gaps. Any even number is good and allows you to LST stack (2, 4, 6, 8). But odd numbers will likely terminate LST! 
+    - Even putting a vertical L/J will leave a closed hole behind... So avoid 3-height gap distance at all cost!

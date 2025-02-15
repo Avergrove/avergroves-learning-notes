@@ -50,6 +50,7 @@ Uncut copy is effectively fractals shifted sideways.
 - A relatively intuitive build, make a cross, then build an overhang! 
 - The main problem is that Imperial Cross has a habit of shifting away from the well... so in the ideal scenario, you want to have a somewhat cut copy and upgrade it!
 - Typically uses SZ to upgrade.
+- If the leftover TSD is upgraded into a TST... you get a C-spin!
 
 ### STSD
 - It's a square hole.. with a notch!
@@ -67,4 +68,5 @@ Uncut copy is effectively fractals shifted sideways.
 - Because Trinity is 3 TSDs in one, it wll help while your parity is lopsided and offset by one.
 
 ### Upgrade Chaining
-- STSD and C-Spin leaves behind a natural TSD slot after the first T-spin. This is the ideal slot used for upgrades! It already has an overhang on one side so you can just pick and select on the other!
+- STSD and C-Spin leaves behind a natural TSD slot after the first T-spin.
+    - Just make sure to leave the 2 tiles above the overhang clear! (Use an I piece of LJ piece as overhang.)

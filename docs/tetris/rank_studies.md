@@ -57,6 +57,7 @@
         - Exception: Your skim leads to a combo that lets you blast into a Quad
         - Exception: You perform a TSD donation to immediately open the garbage hole.
     - This ruleset to pretend the opponent is watching your board at all times, the moment you block your hole, you are dead.
+- Know when to bail from your opener! The opener phase of the game is one of the most deadly! There's a very high chance some part of your opener takes a long time to build and it's difficult to downstack out of it. It's better to avoid that part of it if it means surviving.
 
 ### Defense
 - There is an extremely likely chance that your opponent will start the game with (Extended) SDPC-Spin and Stickspin, you will need to learn how to handle them appropriately in order to advance the ranks!
