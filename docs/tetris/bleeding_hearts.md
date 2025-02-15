@@ -22,4 +22,4 @@ Bleeding hearts is the reversed mod for Duos! It's only available on Valentines 
             - This allows the downstacking work to be distributed to both players.
             - Avoid sending more quads to the high player, it will cause a garbage cascade as the high player might be forced to send back to back quads. 
         - If both players are high, you can still send quads to each other, but try and avoid back to back and over-doing it.
-
+            - In the ideal case, both quads are sent to each other at the same time so there will be no net change while still increasing climb speed.
