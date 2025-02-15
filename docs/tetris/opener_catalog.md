@@ -57,23 +57,16 @@
             - Lime DPC is painful to solve, you can look into the alternative PC solution, it doesn't yield a TSD, but it does still give a PC! Search up the Jigsaw PC loop for more information.
 - Hachispin is also great because you can set up prophecy burst damage! You can tank up acceptable damage in the meantime and then send it all back, and try to quickly clear up the garbage well for a Quad to murder someone.
 
-### Early SZT Opener
-### Divorced Gassho (keymo)
-- Early SZT opener. Technically it's a 100% opener as long as you put the S/Z on the side first depending on whether L or J comes first.
-- Extra DT setup reference: https://w.atwiki.jp/sioyakitetrisopener/pages/380.html
-- Transitions to 6-3. Sends Bag 2 TSD -> Fractal. 
-- There's also a DT cannon -> ST cannon continuation if you want to learn it. Though stacking it can be very awkawrd.
-- The opener is not very flat.. But it still is a 100% opener. Your opponent likely doesn't have a TSD in bag one too if you both start from an SZT game however.
-- Funnel shaped opener end.
-- Although the 4L PC chance is low, it makes the 2nd PC worth learning precisely because there's only one set of possible piece to PC!
-    - See the document for how the 4L PC looks like.
-    - J + S + T will be consumed, so your 2nd PC combination will be L + I + Z + O (omg lizards i love lizards)
-        - This is IOLZ on four.lol.
-        - Quick link: https://four.lol/perfect-clears/2nd#4-8806
-            - Looks kind of like a farm tractor, honestly.
+## Early SZT Opener
+### Hitosura TSD (HTSD) / Hyperspin
+- Uses a T as a base of the opener.
+- Sends a TSD. You can then either transtion to ....
+    - an Imperial cross + 9/0 stacking
+    - or continue 7-2 stacking. 
+- Frankly it has low firepower and takes a while to build.
 
 ## Other openers
-- The ones I haven't been using. These are also just for reference.
+- The ones I haven't been using or don't use anymore. These are also just for reference.
 
 ### Stickspin
 - Like SDPC-spin, but not SDPC-spin.
@@ -94,3 +87,17 @@
 - "Early" O opener. Early is in quotation marks because you can use it whenever SZT doesn't before that..
 - The most common usage is SDPC spin. It deals massive damage. But please don't abuse it.
 - The end of the opener is a funnel shape. You might get unlucky and get garbage in the sides.
+
+### Divorced Gassho (keymo)
+- Early SZT opener. Technically it's a 100% opener as long as you put the S/Z on the side first depending on whether L or J comes first.
+- Extra DT setup reference: https://w.atwiki.jp/sioyakitetrisopener/pages/380.html
+- Transitions to 6-3. Sends Bag 2 TSD -> Fractal. 
+- There's also a DT cannon -> ST cannon continuation if you want to learn it. Though stacking it can be very awkawrd.
+- The opener is not very flat.. But it still is a 100% opener. Your opponent likely doesn't have a TSD in bag one too if you both start from an SZT game however.
+- Funnel shaped opener end.
+- Although the 4L PC chance is low, it makes the 2nd PC worth learning precisely because there's only one set of possible piece to PC!
+    - See the document for how the 4L PC looks like.
+    - J + S + T will be consumed, so your 2nd PC combination will be L + I + Z + O (omg lizards i love lizards)
+        - This is IOLZ on four.lol.
+        - Quick link: https://four.lol/perfect-clears/2nd#4-8806
+            - Looks kind of like a farm tractor, honestly.
