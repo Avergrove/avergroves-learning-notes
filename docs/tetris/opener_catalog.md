@@ -1,5 +1,5 @@
 # Opener catalog
-- This page describes the opener I use
+- This page describes the opener I use.. or used.
 - For TKI and MKO, I would highly recommend learning their PC routes! As a beginner it's likely you can't sustain LST stacking for long, so having PC as alternatives to clear garbage against SDPC and Stickspin is really strong!
 - TODO: Add links to practice PC patterns for each of these openers.
 
@@ -58,12 +58,29 @@
 - Hachispin is also great because you can set up prophecy burst damage! You can tank up acceptable damage in the meantime and then send it all back, and try to quickly clear up the garbage well for a Quad to murder someone.
 
 ## Early SZT Opener
-### Hitosura TSD (HTSD) / Hyperspin
-- Uses a T as a base of the opener.
-- Sends a TSD. You can then either transtion to ....
-    - an Imperial cross + 9/0 stacking
-    - or continue 7-2 stacking. 
-- Frankly it has low firepower and takes a while to build.
+### Gassho TSD
+- Resource 1 (JP): https://shiwehi.com/tetris/template/gasshotsd.php
+- Resource 2 (CN): http://tetriswiki.cn/p/%E5%90%88%E6%8E%8C_TSD_PC
+- Not to be confused with Keymo opener (Divorced Gassho), which I did
+- Apparently this is one of the few openers that allow you to get a 4L PC after a TSD.
+- Sends 1 TSD, plus one of the following continuations
+    - Continuation 1: 4L PC
+        - Just need a TJL queue! The solution is extremely obvious
+            - You can build a TKI afterwards.
+            - .. or You can always also build a 2nd PC! 
+                - The corresponding 2nd pc is ISZO
+    - Continuation 2: 6L Perfect clear
+        - If you get an OSZ opening, then this will PC will feel familliar, it's just like MKO!
+    - Continuation 3: Donation TSD
+    - Continuation 4: STSD
+    - Continuation 5: TSD into 6-3 stacking
+- If the T comes early in second bag, you get a 100% PC rate!
+- If not, you send 4 TSDs in a row. 
+    - The flavor of the 2nd to 3rd TSD is up to you! 
+        - If early L and J: Donation + remnant, or 
+        - If early O: STSD
+- Transitions into 5-4.
+- Evaluating which mirror to start the build with can take some time.
 
 ## Other openers
 - The ones I haven't been using or don't use anymore. These are also just for reference.
@@ -101,3 +118,11 @@
         - This is IOLZ on four.lol.
         - Quick link: https://four.lol/perfect-clears/2nd#4-8806
             - Looks kind of like a farm tractor, honestly.
+
+### Hitosura TSD (HTSD) / Hyperspin
+- Uses a T as the base of the opener.
+- Sends a TSD. You can then either transtion to ....
+    - an Imperial cross + 9/0 stacking
+    - or continue 7-2 stacking. 
+- Frankly it has low firepower and takes a while to build.
+- Replaced with Gassho TSD simply due to the fact that it's also a 3x tsd build... except it can also do perfect clears.

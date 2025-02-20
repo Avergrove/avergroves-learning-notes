@@ -1,6 +1,8 @@
 # Saxophone
 Melody section instrument in the jazz trifecta (Melody, rhythm, percussion)
 
+In reality, these are (slightly more refined) notes I've taken down while taking lessons at Rubato Music. So it maybe out of order outside of the first section.
+
 ## Fundamentals
 By fundamentals, I mean embouchure and air support! 
 
@@ -74,7 +76,7 @@ Try and memorize this each time you start playing to get familliar to it!
     - Just remember air velocity affects reed vibration frequency.
 - With everything in place, now overtone exercise should truly be difficult "by using correct technique"
 
-## Part 2
+## Part 1
 This is from saxophone lesson 1 (first was trial, plus extra information gathered from the internet)
 
 ### Embouchure
@@ -98,3 +100,57 @@ So we need to look into two exercises
 - Your forearm to fingers hand should be straight! (Remember the basic form when drawing hands is two rectangles... no bending allowed! It should be one straight line across on top)
 - The saxophone is not supposed to point directly forward while playing. So you don't have to obsess over that.
 - Is your strap / harness adjusted accordingly? You can try offsetting to one side of or the other since your saxophone will typically lean a bit to one side!
+
+----
+## Part 2
+
+- Is the song you are practicing too simple (cough), you can always practice fixing your bad habits...
+- A slow song doesn't mean it's easy! There's a very likely chance you will hurry..
+- Call and response:
+    - In a nutshell it sounds like asking a question and giving a response.
+        - The call usually has an ascending sound
+        - The response usually has a descending, resolving sound.
+        - It can literally be 2 notes, for any number of bars!
+        - Even if you 
+- Avoid pushing your head too far back, you will know this is the case when you air starts choking.
+- Some saxophone notes are unusually sharp, this is usually the second D->F#
+- You can use syllable notes to read better in rhythm if you need them. A bit cheesy, but every bit helps!
+    - Whole tone: Pear
+    - Quarter note: Apple
+    - Triplets: Strawberry
+    - Eight notes: Watermelon
+- Exercise 2: Long tones! Dreadful exercises, they are, but very important, but they won't be as boring if you have an objective in mind..
+    a. You can always try pitch bending
+    b. Long tone challenge: How long can you hold your breath at a steady tone?
+    c. Long scale tones: Try and hit the correct pitch
+
+---
+## Episode 3
+- Pitch bending: So maybe the jaw thing didn't work out, try this instead:
+    - You might notice letting your jaw down will only change tone color, but not pitch, so...
+    - Instead of trying to let the jaw down, just slowly make it sound like you are giving up on blowing, like a sigh. You m i g h t be able to hear pitch bend.
+    - It should sound vaguely like an among us game start jingle if you play second E.
+    - Another way to think about this is loosen and slack off (read: be lazy) with your lower lip muscle.
+        - You still need more air though, like, actually more air than before. 
+- Diaphragm breathing: You 
+- Dynamics: You might have the bad habit of enjoying impulse. Ideally your volume should be consistent, instead of going BAM BAM BAM, it should go all like daaaaaaaaaaaaah, imagine your sounddwave being drawing on a graph, it should be rectangular, not triangular!
+- Keying: Make sure you press the button before the song even starts, not as it starts!
+- Breath control is extremely important, don't sleep on it!
+    - What happens when you use your air inefficiently?
+        - Your volume becomes impulsive. (not professional)
+        - You start compensating your embouchure by biting (ow)
+        - You can't play phrases completely (ahaha you bloody pleb)
+
+- So here comes exercise set #3, try and practice each of them at a time without stressing too much. Once again, you can do this with scales
+    a. Dynamics: Try and have a strong attack that lets out a consistent volume.
+    b. Breathing: You should really mostly be breathing with your diaphragm. Also, breath with your mouth, not your nose. Your nose is usually blocked anyway.
+    c. Keying: Don't forget to press your buttons early! Also please don't mash the keys.
+    - Ruleset: Start with the following 4 beat measure count
+        - Beat 1: Attack, play
+        - Beat 2: Continue playing
+        - Beat 3: Stop
+        - Beat 4: Breathe
+        - Repeat
+    - Once you can do it in muscle memory, try and reduce breathing time.
+        - Breathe once in 2 notes
+        - Breathe once in 3 notes.

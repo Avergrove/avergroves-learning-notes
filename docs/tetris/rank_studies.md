@@ -37,7 +37,8 @@
 - Feel free to start learning T Spins! Go for some natural ones if you'd like. The core rule of thumb is that *Do not compromise your stack for a TSD, it's not always worth it*
 - You can also start looking into openers! But don't look too deep into them.. lest they stare back..
 
-## S Rank
+## S Rank and above
+- More or less, everything else is learned starting from here! The main difference between ranks are speed and efficiency... but learning tactics is a must!
 - It is now extremely important to learn <b>Offense and Defense</b>.
 - You will also start seeing player specialization surfacing here: Opener mains, 4 widers, 2-widers, Perfect clearers, you will see them all here!
 
@@ -77,21 +78,15 @@
     - Are they *waiting* for you to do something? 
         - Why are they waiting? Do they have something prepared? 
         - If they are trying to survive and cancel you, you will always have more time than them as long as you are lower on the board. They are forced to move!
-        - If they are trying to spike you... well, keep building! But build cleanly.
+        - If they are trying to spike you... well, keep stacking! But as always, build cleanly.
 
-### Other recommended learning topics
-- The openers I use at this point in time is the following:
-    - TKI (Early I): Early TSD makes good defense against anything! The early TSD is also a bit detrimental however if you just send it without any follow ups..
-    - Also look into <a href="https://harddrop.com/wiki/Beacon">Beacon</a>, it's basically a safe way to start the game using 6-3! It's also relatively freestyle. It only requires an I before either S+Z.
-    - MKO (Early LJ): Slightly later TSD but still good, also teaches 6-3 stacking!
-    - <a href="https://four.lol/openers/hachispin">Hachispin</a> (Early O): It's a Single-Triple! But more importantly, this is the foil to SDPC and Stickspin as those use early-O too. Cancels whatever they send and helps create a clean stack!
-    - 6-3 (Early SZT): Not technically an opener, but it's a good way to start a game in general. Also it's actually a bit counterintuitive to use an opener unless it's a kill one, otherwise you're just sending your opponent clean garbage!
-    - The main thing these openers all have in common is that they *freestyle openers* they help you survive early game and have versatile options afterwards. (Downstack? 6-3? LST Stack?)
-- In addition, you should also study what the common kill openers does so you can time your defense properly:
-    - SDPC (Extended SDPC, Nakamuraa's Voracity)
-    - Stickspin (Stickspin)
-
-### Counter strategy
-    - 2 Wide:
-        - Analysis: Most of the damage comes from the height combo, so don't let them build up height! It's surprisingly better to tank the quads and prevent them from comboing up!
-        - In your scenario, just play 9-0, it's enough to win!
+## S+ Rank
+- Your opponent will now employ deadly funnel stack spikes, so you must learn to do the same.
+- Using double TSD setups like STSD and Fractals may be fancy, but in the end, they will "only" send 8 lines with a lot of risk..
+    - Enter: Funnelstacking.
+- If you've used 2-wide before, you might already be familliar with this.
+- To build a funnel stack spike, first, look for a nice clean well, and start building a funnel shape: a well thats lowly widens in size! So 2 -> 3 -> 4 wide.
+- Then, combo downstack and finish off with a quad.
+- Most of your damage will come from funnelstacking. Doing a TSD -> +8 combo -> Quad -> Quad can yield 42 damage(!), enough to murder just about anyone!
+    - Don't be afraid to use your T-piece in the stack while funnelstacking, just remember not all attacks are helpful, only pressuring ones are helpful!
+        - Trying to do a TSD that's not at the start can be incredibly tricky..

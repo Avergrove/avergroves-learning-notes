@@ -42,30 +42,22 @@ You should observe what is your opponent's preferred strategy and try to counter
 Mid game is chaotic. I've listed this in-point, you don't have to work on all of them at once, but try and focus on each one at a time.
 
 ### General tips
-
-
 - The most likely way to kill your opponent is to do a combo downstack to a quad. Look up funnelstacking
-- Don't send clean if your opponent is at the bottom of the board. This only accelerates your defeat.
-    - To show how
-
-
-
-- Opponent's board is clean
-    - There is mostly zero reason to try to spike 
-
-During Midgame, we should split 
-
-in a theoretical scenario, you cant win a game by defending
-Fortunately, this is tetris. The problem is, if you defend, you are relying on your opponent's mismove to win, we *need* to learn to attack
-
-- Let's split the scenario into two, you and opponent
-    - Low, both neutral
-    - Low, clean
-    - High, pressured
-
-- Neutral midgame
-    - Both players are at a neutral scenario.
-    - Because both players are at a neutral position, they will likely gravitate to their natural playstyle.
-    - Just pressure your enemy until there is an imbalance!
-
-- 
+- Timing is incredibly important! It's essentially the "implicit" knowledge needed to improve your rank outside of increasing APM, much like the concept of efficiency and map coverage in MOBAs.
+- To show how monumentally important timing is, let's see what happens if you time badly..
+    - Scenario: 
+        - You are at the top of the board, your opponent is at the bottom.
+        - Your opponent doesn't really have anymore ammo to take you out after spiking, so they will need time to build up, maybe like 7 seconds.
+        - Bad Action: Because you are the top of the board, you scramble and panic to open the garbage well, trying to decrease in height as much as possible while possibly wrecking your board.
+            - You've opened the garbage hole! But now your board is in a terrible state...
+            - Meanwhile, your opponent is super slow, they placed like, what, 4 pieces? 
+                - and then they'll be like.. oh, free garbage, okay, I'll send it back. 
+            - So now you are back to your original state... except worse, because now you've also wrecked your board state just to decrease in height that short while.
+            - Your opponent, on the other hand, did not receive any pressure at all! Now they just continue working those 4 pieces they've placed and... quad! You're dead.
+            - The lesson here is, don't send willy nilly, you're literally accelerating your death.
+        - Good action: Take your time, you are not in any danger until your opponent builds a quad. In the meantime, let's try and set up more defense and ammo!
+            - Your opponent is unlikely to get spiked to death since they are at the bottom of the board. 
+            - However, they can take their time to wait out for your death..
+            - The solution is to try and have a defense plan ready as you downstack.
+            - If you are forced to send garbage, make sure to have a TSD, or maybe another quad ready as they will inevitably send it back.
+            - If your opponent decides to send you garbage, that's "good"! Your attacks can now be used to defend instead of backfiring on yourself, hopefully buying more time to live to fight another day!

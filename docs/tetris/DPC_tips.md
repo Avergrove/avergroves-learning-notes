@@ -1,17 +1,11 @@
 # DPC Tips
 This page describes tips you can use to quickly determine what to use.
 
-## Openers
-Depending on the opener you use, you will get one of the DPCs, pick the one like using!
-
-## Extra I DPC
-- Hachispin
-
-## Extra SZ DPC
-- Hachispin
-
-## Openers that lead to Extra T DPC
-- Beacon
+The chinese tetris wiki has a lot more explanation on DPC other than the minimal ones, also as titbit, it explains where the names come from!
+Resources: 
+    - CN:
+        - Basic DPC: http://tetriswiki.cn/p/DPC#%E5%9F%BA%E7%A1%80_DPC
+        - Extra DPC: http://tetriswiki.cn/p/DPC
 
 ## DPC Tips
 ### Extra I DPC
@@ -19,10 +13,19 @@ Depending on the opener you use, you will get one of the DPCs, pick the one like
 - I DPC is painful, so let's learn the simpler set first!
 
 ##### I DPC: Set 1
-- 1: O -> I (Fake Butter DPC)
-- 2: I -> O ( JL -> O ) (Pelican DPC)
+- I DPC in general is a mess. So let's try to memorize it properly!
 
-- It's VERY important that you make sure you can't build Fake Butter DPC and Pelican DPC first before doing TKI DPc, otherwise it won't work!
+- Ordered by brainpower needed. 
+
+Example: O -> I means O piece comes before I.
+
+- 1: O -> I (Fake Butter DPC)
+- else:: I -> O 
+    - 2: J -> O, S -> Z (Pelican DPC) 
+    - 3: J -> O, Z -> S (Stick DPC)
+- otherwise, I -> O, also O -> JL (Unnamed DPC)
+
+- 4: JL -> O -> I (Kuruma DPC, Optional but it's a reusable solution for SZ and O DPC)
 
 - Fake butter DPC (O -> I)
     - TSD Section:
@@ -33,21 +36,6 @@ Depending on the opener you use, you will get one of the DPCs, pick the one like
         - LOJ box on left, OSZ glob in center, T piece as cake on top, and I piece on far right.
 
 - I DPC is painful, learn them one by one. It's crucial you pay attention to piece order.
-
-- Ordered by brainpower needed. 
-- 1: O -> I (Fake Butter DPC)
-- 2: I -> O ( O -> J/L) (Unnamed DPC, Io Jello)
-- 3: I -> O ( O -> L, S -> Z) (Pelican DPC)
-- 3: I -> O ( O -> L, Z -> S) (Stick DPC)
-
-- 4: JL -> O -> I (Kuruma DPC, Optional but it's a reusable solution for SZ and O DPC)
-
-- Genral
-    - TSD: You more or less just imagine orange has to go left, blue has to go right.
-- Kuruma DPC (JL -> O -> I)
-    - It's kuruma again, shared by SZ, and O DPC! Beautiful!
-    - TSD: Anyway it's simple, put I on one side, build hamburger on that side. JL should be pointing towards each other with the lower pointing at wall.
-    - Solving it is easy, just build an LOJ box. You can figure out the rest.
 - Pelican DPC
     - TSD Section:
         - To determine correct side, pay attention to S/Z
@@ -62,13 +50,12 @@ Depending on the opener you use, you will get one of the DPCs, pick the one like
         - Solve 1: First place S/Z pointing towards I side. Create two hearts: S/Z heart on I side, O heart on T side.
         - Solve 2: First place the O heart on I side, then place J/L lying flat, spin S and Z in.
         - You might need 180 for this..
-- Unnamed DPC
-    - TSD: Prioritize the J/L piece that sits on the O piece and points towards the wall.
-    - Solve: Only has one solution, nice. 
-        - Toss the O into the groove to the right, and I to the left. 
-        - S/Z will be hanging off their ledges.
-        - T piece is smack dab in the center
-        - So you only need to solve the JL
+
+- Bonus: Kuruma DPC (JL -> O -> I)
+    - It's kuruma again, shared by SZ, and O DPC! Beautiful!
+    - Pay attention to the early JL to know you can use it.
+    - TSD: Anyway it's simple, put I on one side, build hamburger on that side. JL should be pointing towards each other with the lower pointing at wall.
+    - Solving it is easy, just build an LOJ box. You can figure out the rest.
 
 
 
