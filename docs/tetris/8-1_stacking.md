@@ -29,3 +29,7 @@
 ## 8-1 Stacking sprint achievement
 Interestingly, you can stack in a very 5-4 pattern-ny way, using LOJ boxes and SZTs together! The video here should showcase this well enough:
 https://www.youtube.com/watch?v=ZULdjuwsUAs
+
+## Side 4-Wide (S4W)
+- Because your b2b chain is likely not going to survive, you might as well utilize the other side of the coin: Side 4 wide!
+- Especially useful in Zenith if it decides to give you clean holes over there, there really isnt a lot of other options.
