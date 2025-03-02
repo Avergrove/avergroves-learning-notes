@@ -132,7 +132,7 @@ So we need to look into two exercises
     - It should sound vaguely like an among us game start jingle if you play second E.
     - Another way to think about this is loosen and slack off (read: be lazy) with your lower lip muscle.
         - You still need more air though, like, actually more air than before. 
-- Diaphragm breathing: You 
+- Diaphragm breathing: You need to breath through your stomach, not your chest. It's also healthy!
 - Dynamics: You might have the bad habit of enjoying impulse. Ideally your volume should be consistent, instead of going BAM BAM BAM, it should go all like daaaaaaaaaaaaah, imagine your sounddwave being drawing on a graph, it should be rectangular, not triangular!
 - Keying: Make sure you press the button before the song even starts, not as it starts!
 - Breath control is extremely important, don't sleep on it!
@@ -154,3 +154,28 @@ So we need to look into two exercises
     - Once you can do it in muscle memory, try and reduce breathing time.
         - Breathe once in 2 notes
         - Breathe once in 3 notes.
+
+---
+## Episode 4
+- Pitch Bending part 2: 
+    - Instead of tuning our instrument to tuner, try tuning to a drone / someone else.
+    - Probably one of the most practical skill you can have when playing in an ensemble.
+    - A good tune should be entirely in unison!
+    - On the other hand, a bad tune will probably sound like the following
+        - A grating Minor second, but worse.
+        - Warbling. Waaah waaah waaah waaah.
+- Saxophone placement:
+    - Please don't pivot the sax to your upper teeth, it will cause your head to rotate.
+    - The mouthpiece is perpendicular to the face, not the floor... you might want to check the correct orientation..
+- Embouchure
+    - As always, after 4 weeks, please remember only your lips need to be firm.
+    - Too tight, and your tone will be choked, too loose, and your tone will be airy.
+    
+- Tuning:
+    - Get a nice sound before tuning. Don't play to fit the tuner!
+
+- Finger patterns:
+    - All scales have a specific finger pattern. 
+        - You might want to start looking into the bis key.. you've been neglecting it.
+
+---

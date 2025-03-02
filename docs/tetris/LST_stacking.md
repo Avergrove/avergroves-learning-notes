@@ -23,13 +23,13 @@ These are points are primarily aimed towards VS. If you want to spam TSD, Mech T
     - Jag out (Side that is further away from wall is higher)
         - You typically don't want this. This usually happens when you use the incorrect S/Z piece as overhang during flat.
         - This also happens on first iteration of ST stacking from flat configuration.
-5. Most importantly, don't try to force a TSD if you LST is terminated due to bad parity or height difference. RESOLVE THEM FIRST, I don't want to see any shenanigans until it's resolved.
+5. Most importantly, don't try to force a TSD if your LST is terminated due to bad parity or height difference. RESOLVE THEM FIRST, I don't want to see any shenanigans until it's resolved.
     - This will happen less the more you practice it.
 7. Recovering from Jag out into Jag in / Flat configuation:
     - Method 1: Easiest way, use a T-piece on the 2-stack to flip Jag-out back into Jag-in. 
     - Method 2: Use an L/J piece to convert back into flat configuration.
     - Method 3: Continue ST stacking. You can then use L/J for 2 height hole and I piece for 3 height hole to recover to Jag in.
-8. Although jag configuration can help you recover into LST, nothing of this matters if the height difference between the 2-side and 7-side is different. RESOLVE THE HEIGHT DIFFERENCE FIRST.
+8. Although jag configuration can help you recover into LST, none of this matters if the height difference between the 2-side and 7-side is different. RESOLVE THE HEIGHT DIFFERENCE FIRST.
 9. For the 7-side, pay particular attention to the O piece. Make sure you leave space for the O piece. It's likely that you can use the L/J and S/Z on the Lst side anyway.
 11. If you can't find a solution, just terminate it, remember you're playing VS, not Blitz. Downstacking and send timing is still incredibly important.
 10. Complimentary tactics:

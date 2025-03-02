@@ -42,19 +42,23 @@
     - Continuation: PC. If you get an early TS / TL, you can do an 8L PC! Surprisingly enough, you will likely be able to pull the PC off because your opponent is likely using SDPC spin.
         - The respective DPC continuations for this is I / SZ DPC.
 
-## Early SZT Opener
-### Dot Cannon
-- Hard Drop: https://harddrop.com/wiki/Dot_Cannon
-- 100% build rate opener. (if you mirror!)
-    - The correct build direction is determined by the first J/L piece that arrives.
-- Builds a TD attack to perfect clear, in fact, most SZT openers try to do this because learning bag 1-TSD SZT openers is hell and requires you to pay attention to what comes other T without hold.
-- It's relatively streamlined, so you can learn it quickly if you just want something to use for VS.
-    - There's no strict pattern though, I thought an early TSD and an early SZ or ZL is enough but..
-- You can also ignore the PC and complete your TD and jump straight to 5-4 / 6-3 Stacking. Which is a lot more practical than it sounds.
-- The remaining TSD can also be upgraded into Imperial cross or Trinity (trinity is dangerous as always) at your leisure.
-- An easier way to wrap around it is only go for a PC if you have an early TSD so you can eyeball the rest.
-    - Hint: The T piece is always for TSd, the O piece always sit at the same position.
-- The relevant PCs are Save-S and save-T DPC.
+## Early SZT Opener 
+- None! I use the 100% build cover openers..
+
+## 100% Build cover
+### MS2 (Mountainous Stacking 2)
+- 100% Build cover (if mirrored)
+- To determine the correct direction, pay attention to the first L/J that arrives.
+- If Hachispin is a weaker counterpart to SDPC spin, then DOT cannon is a weaker counterpat to MS2.
+- Go to Harddrop, and look at Cover C (Stray Cannon) / Cover E (Compromise)
+- Then learn the rest!
+
+### Dubble
+- Dubble 1, not new Dubble. 
+- It sends ...a single line. but a single line is the difference between the enemy PCing or using your garbage against you.
+- Even if you get hit by garbage early, you still have an I piece. And there's plenty of empty space on the field so it's quite likely you will get a clean well.
+- It's honestly surprisingly reasonable if you're slower at an opener.
+
 
 ## Blitz Opener
 ### PC Loop
@@ -149,3 +153,18 @@ https://old.reddit.com/r/Tetris/comments/1g58tg8/what_8l_pc_should_i_learn_for_d
         - If early O: STSD
 - Transitions into 5-4.
 - Evaluating which mirror to start the build with can take some time.
+
+
+### Dot Cannon
+- Why I stopped using: Go learn MS2. If Hachispin is the weaker counterpart of SDPC spin, then DOT cannon is the weaker counterpart of MS2.
+- Hard Drop: https://harddrop.com/wiki/Dot_Cannon
+- 100% build rate opener. (if you mirror!)
+    - The correct build direction is determined by the first J/L piece that arrives.
+- Builds a TD attack to perfect clear, in fact, most SZT openers try to do this because learning bag 1-TSD SZT openers is hell and requires you to pay attention to what comes other T without hold.
+- It's relatively streamlined, so you can learn it quickly if you just want something to use for VS.
+    - There's no strict pattern though, I thought an early TSD and an early SZ or ZL is enough but..
+- You can also ignore the PC and complete your TD and jump straight to 5-4 / 6-3 Stacking. Which is a lot more practical than it sounds.
+- The remaining TSD can also be upgraded into Imperial cross or Trinity (trinity is dangerous as always) at your leisure.
+- An easier way to wrap around it is only go for a PC if you have an early TSD so you can eyeball the rest.
+    - Hint: The T piece is always for TSd, the O piece always sit at the same position.
+- The relevant PCs are Save-S and save-T DPC.
