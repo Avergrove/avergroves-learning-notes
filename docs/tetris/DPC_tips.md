@@ -1,11 +1,13 @@
 # DPC
 This page describes tips you can use to quickly determine what to use.
 
-The chinese tetris wiki has a lot more explanation on DPC other than the minimal ones, also as titbit, it explains where the names come from!
+The chinese tetris wiki has some extra explanations on DPC other than the minimal ones, and even some titbits like where the names come from!
 Resources: 
+    - John Beak: https://tetris.johnbeak.cz/dpc/
     - CN:
         - Basic DPC: http://tetriswiki.cn/p/DPC#%E5%9F%BA%E7%A1%80_DPC
         - Extra DPC: http://tetriswiki.cn/p/DPC
+
 
 ## DPC Tips
 ### Extra I DPC
@@ -77,8 +79,9 @@ Pay attention to the order of the SZO
 
 ### Extra SZ DPC
 - Lime DPC is painful to solve, you might want to look into alternatives whenever possible.
-    - There's a recovery on the Simplified Jigsaw loop that should help you loop back but... it has terrible scoring.
+    - There's a recovery on the Simplified Jigsaw loop page that should help you loop back but... it has terrible scoring.
         - However, it *does* complete the loop, it just doesn't TSD or Quad at all..
+        - Actually never mind I'm stupid, it has an opportunity for it during PC phase.
     - Alternatives (All of them have wtf requirements):
         - God DPC: *both* J/L must come before second S, O must come after S!
         - Out of Order TKI DPC

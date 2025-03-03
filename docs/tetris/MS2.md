@@ -6,15 +6,15 @@
 - John Beak can do way better explanations than I do, I'm just writing this down here so I can memorize solutions!
 
 ## In VS
-Follow hard drop, you thought SDPC spin was evil but..
+If Hachispin was a "tamer" version of SDPC, then DOT cannon is the "tamer" version of MS2.
 
-You can learn Setup 2C (Stray cannon) + Setup 2E (Comproimise. Absent from John Beak).
+You can learn Setup 2C (Stray cannon) + Setup 2E (Compromise. Seems to be absent from John Beak at the moment).
 Basically, this means if you can't build one, you can use the other.
 
-Both can go for DPC, or go for 14L PC.
-
+2C can go for DPC, both can go for 14L PC.
 
 ## In Blitz (Looping)
+You can reuse the solutions from VS if you want.
 
 ## Solves
 

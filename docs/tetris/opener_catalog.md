@@ -158,6 +158,7 @@ https://old.reddit.com/r/Tetris/comments/1g58tg8/what_8l_pc_should_i_learn_for_d
 ### Dot Cannon
 - Why I stopped using: Go learn MS2. If Hachispin is the weaker counterpart of SDPC spin, then DOT cannon is the weaker counterpart of MS2.
 - Hard Drop: https://harddrop.com/wiki/Dot_Cannon
+- The original page has a bit more documentation: https://docs.google.com/document/d/1avJqINBvas15fsPksig_WA6bW_vEsSiKTZ-9uBfVy00/edit?tab=t.0#heading=h.19nenz673skk
 - 100% build rate opener. (if you mirror!)
     - The correct build direction is determined by the first J/L piece that arrives.
 - Builds a TD attack to perfect clear, in fact, most SZT openers try to do this because learning bag 1-TSD SZT openers is hell and requires you to pay attention to what comes other T without hold.

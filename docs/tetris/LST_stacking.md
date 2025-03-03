@@ -3,7 +3,7 @@ LST Stacking deserves its own little section because it's incredible versatile a
 
 I'm trying to write tips beyond "stack flat" here, but I'll still put them here so we have a neat little list, please take note of these in point-by-point!
 I am also by means an LST expert (I haven't done a 20TSD successfully yet), the entire point of this document here is to showcase what I observed from trying to stack it.
-These are points are primarily aimed towards VS. If you want to spam TSD, Mech TSD would be your better bet since it's pattern stacking.
+These are points are primarily aimed towards VS. If you want to spam TSD, Mech TSD might be a good bet since it's pattern stacking and is therefore faster by default.
 
 0. Before you learn to run, you must walk! If you can't LST stack, then just do a "normal" stack. As an exercise, try doing a 40L sprint with only quads and TSDs. It will give you a general idea on how to manipulate the jag side and control height.
     - I would even encourage starting with an opener: In particular TKI or any that can versatilly transtion to 7-2. (Hachispin, MKO, Hitosura TSD (HTSD) / Hyperspin). Try and hit the ground running!
@@ -25,13 +25,16 @@ These are points are primarily aimed towards VS. If you want to spam TSD, Mech T
         - This also happens on first iteration of ST stacking from flat configuration.
 5. Most importantly, don't try to force a TSD if your LST is terminated due to bad parity or height difference. RESOLVE THEM FIRST, I don't want to see any shenanigans until it's resolved.
     - This will happen less the more you practice it.
+    - Seriously, resolve your parity before any shenanigans, creating cheese for yourself and free backfire from your enemy is not poggers. It's not a wasted T piece.
 7. Recovering from Jag out into Jag in / Flat configuation:
     - Method 1: Easiest way, use a T-piece on the 2-stack to flip Jag-out back into Jag-in. 
     - Method 2: Use an L/J piece to convert back into flat configuration.
-    - Method 3: Continue ST stacking. You can then use L/J for 2 height hole and I piece for 3 height hole to recover to Jag in.
+    - Method 3: Continue ST stacking. 
+        - You can then use L/J for 2 height hole to recover to flat
+        - You can then use I   for 3 height hole to recover to Jag in.
 8. Although jag configuration can help you recover into LST, none of this matters if the height difference between the 2-side and 7-side is different. RESOLVE THE HEIGHT DIFFERENCE FIRST.
 9. For the 7-side, pay particular attention to the O piece. Make sure you leave space for the O piece. It's likely that you can use the L/J and S/Z on the Lst side anyway.
-11. If you can't find a solution, just terminate it, remember you're playing VS, not Blitz. Downstacking and send timing is still incredibly important.
+11. If you can't find a solution, just terminate it, remember you're playing VS, not Blitz. LST is a pressure tactic. Downstacking and send timing is still incredibly important.
 10. Complimentary tactics:
     - The LJ phase of the stacking can be STMB Caved, and nothing is stopping you from doing donations (IF you can keep your stack clean, of course.)
     - If you have excess Ts coming too early, you can consider using Purple Rain to return to a jag-in configuration.

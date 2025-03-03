@@ -13,6 +13,8 @@ Basically, you can try LST and ST, but you should learn how to resolve parity on
 
 ## ST Stacking
 
+ST Stacking is somewhat similar to Mech TSD but with a slightly more versatile heart pattern. The constraints are "try and only use S/Z" on the 2-side.
+
 According to four.lol, ST stacking is something that can be learned by anyone in anytime, because it promotes good queue watching. And they're right.
 https://harddrop.com/wiki/ST_Stacking_Setups
 
@@ -58,14 +60,15 @@ Realistically, despite being called LST, you really should be using every tool i
 - If you've messed up the 1-2-1-2 pattern on LST stacking, you can try using the following to recover:
     - Zipper: Used to create fractals. A grim grotto skim that narrows the hole into the well.
 
-## Parity Resolution
+### Parity Resolution
 - If you notice, there are 3 configurations on the 2 side, it can be jag in (hole is closer to center of board), jag out, and flat. You should try and pay attention and learn how to resolve this parity!
 - LST uses a jag in and flat. 
     - Jag-in: Place an S/Z piece
     - Flat: Place a J/L piece
 - When Jagged-out, you can use a single T piece to convert back to jag-in.
 
-The following techniques will is a list of possible solutions you can use
+## Other techniques
+The following techniques will is a list of possible solutions you can now use thanks to having a wider side tower:
     - STSD
     - BT STSD
     - DT Cannon + Triple Double
@@ -85,7 +88,7 @@ For purple rain to work, you need to have a 1-block difference to the next hole.
 
 
 ## DT Cannon
-- Easily buildable when you 2-side is flat. Just slap on a J/L + SZ piece and you are good to go!
+- Easily buildable when your 2-side is flat. Just slap on a J/L + SZ piece and you are good to go!
 - The remaining overhang can be handled in the following way:
     - Build a 4-wide combo (not very strong in TETR.IO unless you have a well to utilize at the end)
     - Anchor set: This doesn't really do "anything" on its own. It's mainly for counting to four to retain back to back

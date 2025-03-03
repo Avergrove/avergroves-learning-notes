@@ -33,7 +33,8 @@ You should observe what is your opponent's preferred strategy and try to counter
 
 - Mechanical patterns
     - More known as Mech TSD. It's a bit tricky to learn to counter it at first, but it's very mechanical, so you also have a mechanical way of winning it.
-    - There's no need to cancel the garbage as long as you are at the bottom. As long as you don't waste an I piece, you should ample amount of ammo to send it all back.
+    - As long you stay at the bottom, your opponent is slowly digging their own grave by making worse and worse I dependencies, you don't even really need to send back to them.
+        - Just make sure to save the I piece.
 
 - Raw APM
     - 

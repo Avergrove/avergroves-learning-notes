@@ -1,6 +1,7 @@
 
-This actual page is currently served on...
-https://avergrove.github.io/avergroves-learning-notes/docs/music/
+These learning notes are driven by needing to write notes for playing Tetris. But now it contains other notes I've written down too!
+The Tetris page can be found here:
+https://avergrove.github.io/avergroves-learning-notes/docs/tetris/
 
 Repo might need some adjustments before I get used to it haha
 

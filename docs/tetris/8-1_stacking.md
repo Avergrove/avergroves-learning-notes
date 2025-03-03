@@ -32,4 +32,4 @@ https://www.youtube.com/watch?v=ZULdjuwsUAs
 
 ## Side 4-Wide (S4W)
 - Because your b2b chain is likely not going to survive, you might as well utilize the other side of the coin: Side 4 wide!
-- Especially useful in Zenith if it decides to give you clean holes over there, there really isnt a lot of other options.
+- Especially useful in Zenith if it decides to give you clean holes over there, because 8-1 is poopoo and there really isnt a lot of other options.

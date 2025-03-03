@@ -6,8 +6,8 @@
 ### Natural donation:
 Basically cover the well with any piece, really.
 
-To keep it simple, try donating just TSDs. This means any piece that is 2 tile tall is fair-play for covering the well up. (S/Z/O and J/Ls on its side)
-Using 3 pieces will leave a residue at the well and require you to do a TST or two t-spins in a row.
+To keep it simple, try donating just TSDs. This means any piece that is 1/2 tile tall is fair-play for covering the well up. (S/Z/O and J/Ls on its side)
+Using 3 pieces will leave a residue at the well and require you to do a TST or two t-spins in a row, both are a long commitment before you can quad downstack.
 
 ### Kaidan
 You will see this EXTREMELY often. It's also easy to identify! Kaidan means stairs, so just look for stairs and slap an S
@@ -47,13 +47,3 @@ In TETR.IO, combos apply a multiplier to your lines sent.
 
 This means as long as you build a 4wide on top of your tetris well, you should be able to send a whooping 12 lines with a single tetris after the combo!
 (Of course you still need to learn how to 4 wide..)
-
-### Extras
-#### "Advanced TST Props"
-- From Galactoids page. These are primarily used in 9-0 stacking.
-https://galactoidtetris.wordpress.com/2021/06/09/advanced-t-spin-triple-guide/
-
-- This works incredible well in 4x1 holes and beyond (eg 5x1, 6x1)
-    - But it's primarily for 4x1
-
-- Go memorize them, really!
