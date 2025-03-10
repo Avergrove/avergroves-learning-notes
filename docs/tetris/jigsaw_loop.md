@@ -20,14 +20,14 @@ Setup Phase:
     - The correct build direction can be determined by the first S/Z that arrives. Place it such that it is horizontal and pointing towards the middle of the field.
         - This will allow you to start the loop 100% of the time.
 
-Solve phase:
+- Solve phase:
     - Solutions from MetallicLurker's doc: https://docs.google.com/document/d/13EGXMdc4s_zRhp9VFD7Wq8VhLhAj_6MA4Cge0pvo0m8/edit?tab=t.0#heading=h.i9k2ip5co7ul
     - Beginner Path:
         - You might be tempted to go always go for the solve, but this isn't always a good idea (Spending T on first PC), at least while learning.
         - First, check if you can get the lucky 10% solve you would usually get in the main loop (without the tub recovery setup). (JSO / LZO) depending on direction
         - Otherwise, look for another way to PC
-            - There are around 12 setups for 2nd PC, and you will easily get overwhelmed if you are forced to learn all of them at once.
-            - Instead, let's try to find a solve that saves the T piece during 1st PC (ie: Good solve). If not, just continue the main loop.
+            - There are around a total of 12 minimal setups for 2nd PC, and you will easily get overwhelmed if you are forced to learn all of them at once.
+            - **Instead, let's try to find a solve that saves the T piece during 1st PC (ie: Good solve). If not, just continue the main loop.**
                 - The save T piece 2nd PC setups generally has simpler setups and solutions.
             - Hint1: Both Jaws and PCO are in a column parity imbalanced state.
                 - that means you need to put in an odd number of column parity pieces. (J/L/Vert T)
@@ -57,15 +57,15 @@ Solve phase:
 
 
 ## 2nd PC
-Setup Phase:
+- Setup Phase:
     - Beginner Path:
         - Lucky JSO / LZO:
             - If you got lucky and rolled a JZO / LZO, you can continue building Step 2 and always get your tub + horizontal I piece.
             - If you don't want to do SZ DPC and want to learn 3rd PC with extra O, try and build the 3x4 box in this step using JZL / JSL instead of JOL box.
 
         - 2nd PC Setups:
-            - If you've been following the instruction from the previous step and saved the T for the solve, you should now have at least 1 T piece among your 4 pieces.
-            - You can now check https://tetris.johnbeak.cz/2nd/minimal.php for 2nd PCs. Thanks to PC theory, we now know that we only need to learn 4 setups (vs 12)!
+            - If you've been following the instruction from the previous step (as in 1st PC, not "Lucky JSO / LZO") and saved the T for the solve, you should now have at least 1 T piece among your 4 pieces.
+            - You can now check https://tetris.johnbeak.cz/2nd/minimal.php for 2nd PCs. Thanks to PC theory, we now know that we only need to learn 4 + 1 setups (vs 12)!
             - Anyway, if you didn't get the lucky LSO solve, then your remaining pieces will almost always be the anti-matching pair J+Z / L+S (Anti-matching here means that usually JSJ / LZL forms a box, so JS and LZ are "matching") 
             - Also, your remaining 4 pieces will likely include an I piece in it due a large majority of the solves from 1st PC using an O piece.
             - Therefore, we can now train specific scenarios for 2nd PC in tools like Himitsu Confidential's usermodes.
@@ -73,19 +73,33 @@ Setup Phase:
                 1. TI + ...
                     - Matched Heart: JZ / LS (Tub + Vertical I 2nd)
                     - Mismatched heart: JS / LZ (Broken Tub 2nd)
-                    - O + Z/S (Mount, hold O 2nd) 
+                    - O + Z/S (Mount, hold O 2nd, it's kind of rare.)
                 2. TO + ...
                     - Matched Hearts: JZ / LS (Heart + PCO 2nd)
-                    - Mismatched heart: JS / LZ (Heart + PCO 2nd)
-                        - You can memorize just the solution here for now:https://docs.google.com/document/d/12AF4o6d7acQRlyKLg-071TkYh8ZiYMpQkFS3zVCeRZY/edit?tab=t.0#heading=h.z3hg94crfao6
-                        - Basically: 2x TLZ Congruent
+                    - Mismatched heart: JS / LZ (Factory 2nd, else Heart + PCO 2nd)
+                        - Solving is is somewhat difficult, you can memorize just the solution here for now and reset if you fail: https://docs.google.com/document/d/12AF4o6d7acQRlyKLg-071TkYh8ZiYMpQkFS3zVCeRZY/edit?tab=t.0#heading=h.z3hg94crfao6
+                        - Later on, feel free to solve it your way!
                 3. T + L/J +...
                     - SZ (Tub + Vertical I 2nd)
-            - An easy way to remember is TI = Tub series, TO = Heart series.
-            
+                - Categorization: 
+                    - An easy way to remember is TI = Tub series, TO = Heart series solves.
+                    - Broken tub is used if vertical I tub can't be constructed (out of order)
+            - Here are some 2nd PC usermodes you can use to practice so you can memorize them rapidly without having to swap between setups every loop:
+                - Tub + Vertical I 2nd / Broken Tub 2nd:
+                    - TI + JZ: https://tinyurl.com/nneyrphn
+                    - TI + LS: https://tinyurl.com/mrf49c9h
+                - Factory 2nd: 
+                    - TO + JS: https://tinyurl.com/2sb7vhfz
+                    - TO + LZ: https://tinyurl.com/p4na9j29
+                        - Can also practice Heart + PCO 2nd with.
+                - Heart + PCO 2nd:
+                    - TO + JZ: https://tinyurl.com/yc6bx5zu
+                    - TO + LS: https://tinyurl.com/2sanzvpu
+                - Mound: 
+                    - TIO + S: https://tinyurl.com/2tv238pd
+                    - TIO + Z:  https://tinyurl.com/2uevv86f
 
 ## 3rd PC / DPC
-From this point on, can either go for DPC / Freestyle for 7 PCs, glhf!
-- Theoretically, most people die inside if they get S/Z for the 3rd PC. So they go for DPC.
+From this point on, you can either go for DPC to practice the basic 1-2-DPC loop, or Freestyle for 7 PCs, glhf!
+- Theoretically, most people die inside if they get S/Z for the 3rd PC (Because solving it is painful), so if you are learning to consecutive PC, go for a save O back in 2nd PC! Because lots of solutions there involves heart shapes, there is a likely chance you can swap an O out for an SZ.
 - Either way, try and freestyle up to 7th PC if you'd like if you're practicing! The freestyle pc tips can be found in PC_Tips.md
-- By the way, O 3rd PC is a favourite because you just stack 2x O pieces on top of each other (AKA Braindead)
