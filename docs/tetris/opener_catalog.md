@@ -5,6 +5,7 @@
 
 ## Early I Opener
 ### TKI
+- ![TKI Opener](/img/tetris/openers/tki.png)
 - Hard Drop: https://harddrop.com/wiki/TKI_3_Opening#Flat_Top_variation
 - Early I opener
 - Great for learning 7-2 stacking. Starts with an early TSD for defensive measures if needed.
@@ -22,6 +23,8 @@
 
 ## Early LJ Opener
 ### MKO
+- ![MKO Opener](/img/tetris/openers/mko.png)
+- youknowthecopypasta
 - Hard Drop: https://harddrop.com/wiki/MKO_Stacking
 - Early LJ opener
 - Like TKI except for LJ bags. Transitions seamlessly to 6-3
@@ -30,23 +33,24 @@
 - You should learn the 4L PCs. Usually if a bag is annoying to stack, you can get a 4L PC! It's likely you won't get the PC damage off, but it does keep your well clean!
     - MKO also makes a great opportunity to learn 2nd PCs. Uniquely MKO has access to TTSZ 2nd PC boards!
 - There's also a 8L PC! It's extra follow methods in following up, so might as well learn it!
-- Waste-T path is generally troublesome (for me). What I usually do is go for a T-spin Single and build floating T-spins... however this tends to be risky because your next T isn't coming soon.
+- MKO is generally a bit dangerous to use if you aren't experienced at stacking (me) especially with Waste T because you will have a long downtime when you can't downstack. As a compromise... please don't try to build more TSDs after a waste T..
 
 
 ## Early O Opener
-### Hachispin
-- Early O opener
-- Your opponent is likely to be using SDPC spin. And honestly, I would partially recommend it haha. Anyway, I'm sticking with Hachispin for now.
-- Sends a TSS -> TST. What you want to do afterwards is up to you!
-    - Continuation: TSD. This lets you pick either 7-2, 6-3, or 5-4. You can use it to build around a garbage hole!
-    - Continuation: PC. If you get an early TS / TL, you can do an 8L PC! Surprisingly enough, you will likely be able to pull the PC off because your opponent is likely using SDPC spin.
-        - The respective DPC continuations for this is I / SZ DPC.
+### SDPC:
+- ![SDPC Opener](/img/tetris/openers/sdpc.png)
+- "Early" O opener. 
+    - Early is in quotation marks because you can use it whenever SZT doesn't before that..
+- The most common usage is SDPC spin. It deals massive damage. But please don't abuse it.
+- The other use is the original SDPC. It's less of a crutch and frankly pretty badass whenever you get an all clear with it. The all clear is also very defensive, as compared to SDPC spin because you get a clean, flat field.
+- The JL in bag 1 is interchangeable! See: Kezdabez' video
 
 ## Early SZT Opener 
 - None! I use the 100% build cover openers..
 
 ## 100% Build cover
 ### MS2 (Mountainous Stacking 2)
+- ![MS2 Opener](/img/tetris/openers/ms2.png)
 - 100% Build cover (if mirrored)
 - To determine the correct direction, pay attention to the first L/J that arrives.
 - If Hachispin is a weaker counterpart to SDPC spin, then DOT cannon is a weaker counterpat to MS2.
@@ -105,11 +109,6 @@ https://old.reddit.com/r/Tetris/comments/1g58tg8/what_8l_pc_should_i_learn_for_d
 ### FinT Cannon
 - Early SZT opener
 - Great for learning Fin T-spins.
-
-### SDPC: 
-- "Early" O opener. Early is in quotation marks because you can use it whenever SZT doesn't before that..
-- The most common usage is SDPC spin / Extended SDPC Spin. It deals massive damage. But please don't abuse it.
-- The end of the opener is a funnel shape. You might get lucky and get garbage in the center for MASSIVE damage.
 
 ### Divorced Gassho (keymo)
 - Why I stopped using this: I wanted a more streamlined, "symmetrical" build that doesn't build extremely high. 
@@ -176,3 +175,12 @@ https://old.reddit.com/r/Tetris/comments/1g58tg8/what_8l_pc_should_i_learn_for_d
 - An easier way to wrap around it is only go for a PC if you have an early TSD so you can eyeball the rest.
     - Hint: The T piece is always for TSd, the O piece always sit at the same position.
 - The relevant PCs are Save-S and save-T DPC.
+
+### Hachispin
+- Why I stopped using: You are still more likely to construct SDPC. 
+- Early O opener
+- Your opponent is likely to be using SDPC spin. And honestly, I would partially recommend it haha. Anyway, I'm sticking with Hachispin for now.
+- Sends a TSS -> TST. What you want to do afterwards is up to you!
+    - Continuation: TSD. This lets you pick either 7-2, 6-3, or 5-4. You can use it to build around a garbage hole!
+    - Continuation: PC. If you get an early TS / TL, you can do an 8L PC! Surprisingly enough, you will likely be able to pull the PC off because your opponent is likely using SDPC spin.
+        - The respective DPC continuations for this is I / SZ DPC.

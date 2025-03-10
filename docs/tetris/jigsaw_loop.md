@@ -1,4 +1,10 @@
 #  Jigsaw loop
+
+|||
+|---|---|
+|![Jaws](/img/tetris/jigsaw_pc/jigsaw_jaws.png)|![PCO](/img/tetris/jigsaw_pc/jigsaw_pco.png)|
+|Jaws|PCO Variant|
+
 The Jigsaw loop is a loop that starts with Jaws / PCO variant to achieve a 100% setup rate.
 
 Jigsaw loop is a great learning tool for learning how to work with Perfect Clears. The simplified version will teach and help you grasp the following:
@@ -15,16 +21,24 @@ This page aims to help you learn to perform the 1st and 2nd PC too! So you will 
 - Saving T for 2nd PC
 - Getting familliar with 2nd PC setups.
 
+- Because ML already has a page showing an overview of the solves on Jigsaw (which is fantastic, actually, go give it a look!), this page will instead focus on how to categorize solutions together and learn how to practice them!
+    - https://docs.google.com/document/d/13EGXMdc4s_zRhp9VFD7Wq8VhLhAj_6MA4Cge0pvo0m8/edit?tab=t.0#heading=h.i9k2ip5co7ul
+
 ## 1st PC
-Setup Phase:
+- Setup Phase:
     - The correct build direction can be determined by the first S/Z that arrives. Place it such that it is horizontal and pointing towards the middle of the field.
         - This will allow you to start the loop 100% of the time.
 
 - Solve phase:
-    - Solutions from MetallicLurker's doc: https://docs.google.com/document/d/13EGXMdc4s_zRhp9VFD7Wq8VhLhAj_6MA4Cge0pvo0m8/edit?tab=t.0#heading=h.i9k2ip5co7ul
     - Beginner Path:
         - You might be tempted to go always go for the solve, but this isn't always a good idea (Spending T on first PC), at least while learning.
         - First, check if you can get the lucky 10% solve you would usually get in the main loop (without the tub recovery setup). (JSO / LZO) depending on direction
+            
+            |||
+            |---|---|
+            |![Jaws Lucky solution](/img/tetris/jigsaw_pc/lucky_solve_1.png)|![PCO Variant lucky solution](/img/tetris/jigsaw_pc/lucky_solve_2.png)|
+            |Jaws|PCO Variant|
+
         - Otherwise, look for another way to PC
             - There are around a total of 12 minimal setups for 2nd PC, and you will easily get overwhelmed if you are forced to learn all of them at once.
             - **Instead, let's try to find a solve that saves the T piece during 1st PC (ie: Good solve). If not, just continue the main loop.**
@@ -33,12 +47,14 @@ Setup Phase:
                 - that means you need to put in an odd number of column parity pieces. (J/L/Vert T)
             - Hint2: You will typically be able to solve if you have a heart combination available, even more so if you have both O + SZ to form the heart.
             - Hint3: Let's observe the solutions and categorize them! We can quickly go to the next step if we dont see any of the following combinations..
+                - First, let's check the solutions on MetallicLurker's doc and categorize the solutions: https://docs.google.com/document/d/13EGXMdc4s_zRhp9VFD7Wq8VhLhAj_6MA4Cge0pvo0m8/edit?tab=t.0#heading=h.i9k2ip5co7ul
                 - Jaws (SZJ start): 
                     - If T is placed in the usual orientation (vertically, just like in our regular Jigsaw)..
-                        - You will always need a pair or LS / LZ / JS / JZ pair. (ie one squarey J/L piece, one zigzaggy S/Z piece)
+                        - You will always need a LS / LZ / JS / JZ **pair**. (ie one squarey J/L piece, one zigzaggy S/Z piece)
                         - You will likely be able to solve if the fourth piece is an I or O piece.
                     - Unique solution: If T is placed horizontally:
-                        - You will always need an LJ pair (not including that one case with IZO)
+                        - You will always need an LJ pair 
+                        - Alternatively, you will need IO + Z
                     - Rare solution: This is only one solution
                         - It uses s symmetrical set: IO + LJ.
                 - PCO Variant (TSZ start):
@@ -47,6 +63,7 @@ Setup Phase:
                         - You will likely be able to solve if the fourth piece is an I or O piece. (Are you seeing a repeating pattern here?)
                     - Unique solution: The L is placed horizontally.
                         - You will always need an I piece.
+                        - ![horizontal L Placement](/img/tetris/jigsaw_pc/PCO_hori_L.png)
                         - The remaining slot can be solved with any 2-piece Heart combination \<3
                     - Rare solution: This is only one solution:
                         - You will place the I piece first. Then slap in TZO.
