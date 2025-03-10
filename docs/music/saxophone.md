@@ -179,3 +179,13 @@ So we need to look into two exercises
         - You might want to start looking into the bis key.. you've been neglecting it.
 
 ---
+## Episode 5
+For higher notes, you need to make your lip surface area sharper and sharper (lower area)
+This should be a force pointing 45 degrees forward
+For overtone exercise, try and hiss until you can hit the target
+Remember both hands must be comfdoratble when playing
+
+Should embouchure be a push force or curl force?
+
+
+---

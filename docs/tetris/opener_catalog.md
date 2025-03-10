@@ -53,6 +53,13 @@
 - Go to Harddrop, and look at Cover C (Stray Cannon) / Cover E (Compromise)
 - Then learn the rest!
 
+### Kisaragi Stacking
+- John Beak: https://tetris.johnbeak.cz/8l/kisaragi.php
+- Want a no-nonsense 100% build cover TD -> PC opener? Well, here you go!
+- The correct direction can be determined by the first L/J  that arrives.
+- You only need one stacking method, heart solution, and dpc!
+    - You can optimize it by adding in the honey cup setup. (I < L)
+
 ### Dubble
 - Dubble 1, not new Dubble. 
 - It sends ...a single line. but a single line is the difference between the enemy PCing or using your garbage against you.

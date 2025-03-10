@@ -1,0 +1,31 @@
+# Mech Heart
+- Follow the opener here:
+    - https://www.bilibili.com/opus/997806608970940469?plat_id=5&share_from=article&share_medium=android_i&share_plat=android&share_session_id=456d0263-eb15-4e60-b43c-97c01249967a&share_source=COPY&share_tag=s_i&timestamp=1739554198&unique_k=ztFtkiI
+
+- You must stack the first 2 bags successfully.
+- Bag 1: I should come before O.
+- Bag 2: You can do the awkward I spin by doing..
+    - Soft Drop. 
+    - 180
+    - 3x CW
+    - If you dont care abuot the all spin at the start, feel free to just burn the T piece.
+
+- Bag 3 and onwards: Improvisation
+    - Standard phase:
+        - This will consume height from the rightmost 2x I piece stack.
+        - JZ on left, OL on right, double I on right wall.
+        - ST is consumed in all-spinning
+        - Remember the heart on both side is interchangeable. but you still want to always use O with L.
+    - Refill phase:
+        - The O piece is used on the I stack.
+        - The S piece will be used in the right heart twice.
+        - The T piece will be used for all-spin twice.
+    - Dissolution phase:
+        - The L and S piece is now used in the all-spin slot.
+            - The consumption order is LST, LST.
+            - 2xL is consumed in the lower area to form a "box" shape and compelte the solve.
+            - 2x ST is repeated twice.
+        - The O is placed on right most side now.
+        - The LZ is distributed between left and right heart column
+    - These phases are always two step. 
+    - The ideal ratio is 9x standard phase, 4x Refill phase, 2x Dissolution phase

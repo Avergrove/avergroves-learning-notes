@@ -18,8 +18,45 @@ You can reuse the solutions from VS if you want.
 
 ## Solves
 
-### Stray Cannon solve
+### Stray Cannon 8L solve
 - It's relatively simple. Just slap the I on the side, then build two hearts. The O can act as a buffer between S and Z
+- But when it's not, you can always fall back to 14L solve.
+- Otherwise.. 8L Solve:
+    - The weird solutions generally involve putting O in the side groove.
+    - Only one of S/Z is put near the TSD slot. This is the one that can fit horizontally. (but some solutiosn fit vertically.), so let's categorize them.
+    - If you can spend the O first to create the heart in side. Do it.
+    - An early TSD will likely allow you to save O.
+    - Forgoing the TSD will allow you to save T.
+    - Solution group 0: "Obvious hearts"
+        - We are more interested in knowing when this doesn't work.
+        - The first 4 pieces must be L+J. Then either S/Z/O
+    - Solution group 1: Early LJ
+        - This will involve a Middle line LJ Skim.
+    - Solution group 2: Horizontal S:
+        - These solutions are recommended if L/J are far apart.
+    - Solution group 3: Vertical S
+        - There's 2 formats: Vert T first or Vert S first
+        - Vert S(ZT): For J+O
+        - Vert T: This is actually an out of order of one of the S solutions.
+
+### Compromise 14L solve
+- Fumen: https://fumen.zui.jp/?v115@fgB8ywzhAtC8wwR4RpBtC8R4glRpAtD8ilH8h0H8g0?I8g0E8JeAgWaA28/DBxngHBFbcRASUD6AZRaHBQecRAylAA?AfgB8BtzhRpC8BtR4wwRpC8ilywD8glR4H8h0H8g0I8g0E8?JeAAPaAVEYHBzngHBFbcRASEBVBVIaHBQecRAylAAAfgB8y?wRpilC8wwAtRpglR4C8Bth0R4D8Atwhg0H8whg0H8whI8wh?E8JeAAPaAV+vKBwngHBFbcRASEROBVLaHBQecRAylAAAfgB?8zhR4RpC8BtR4wwRpC8ilywD8glBtH8h0H8g0I8g0E8JeAA?PaA0Fg2A1ngHBFbcRASEJEBXLaHBQecRAylAAAfgB8zhg0g?lRpC8ywg0glRpC8Q4wwh0hlD8R4AtH8BtH8AtI8Q4E8JeAA?PaAU7XHBwngHBFbcRASEB6AULaHBQecRAylAAAfgB8zhBtR?pC8glQ4ywRpC8glR4wwBtD8hlQ4H8h0H8g0I8g0E8JeAAPa?Ay8f2A2ngHBFbcRAS0+5AWLaHBQecRAylAAA
+
+- Fumen Mirrored: https://fumen.zui.jp/?v115@fgQ4zhywB8R4RpBtwwD8Q4Rpg0BtG8i0G8hlI8glI8?glD8JeAgWaA28/DBxngHBFbcRASUD6AZRaHBQecRAylAAAf?gRpzhR4B8RpwwBtR4D8ywi0G8Btg0G8hlI8glI8glD8JeAA?PaAVEYHBzngHBFbcRASEBVBVIaHBQecRAylAAAfgi0RpywB?8Btg0RpQ4wwD8BthlR4G8glwhQ4G8glwhI8whI8whD8JeAA?PaAV+vKBwngHBFbcRASEROBVLaHBQecRAylAAAfgRpBtzhB?8RpwwBtR4D8ywi0G8R4g0G8hlI8glI8glD8JeAAPaA0Fg2A?1ngHBFbcRASEJEBXLaHBQecRAylAAAfgRpg0glzhB8Rpg0g?lywD8h0hlwwAtG8Q4BtG8R4I8Q4I8AtD8JeAAPaAU7XHBwn?gHBFbcRASEB6AULaHBQecRAylAAAfgRpR4zhB8RpywAtg0D?8R4wwBtg0G8Ath0G8hlI8glI8glD8JeAAPaAy8f2A2ngHBF?bcRAS0+5AWLaHBQecRAylAAA
+
+- Pay attention to this out of order solve, you need to do this quite often 
+    - https://knewjade.github.io/fumen-for-mobile/#?d=v115@ngB8GeD8FeG8CeG8BeI8AeI8AeD8JeAgHvhGedBxSB?McBTVBlbBXbB6rB
+
+
+- Group 1 (Base solution): J in center:
+    - Sol 1+2: LS Heart above center (horizontal vs vertical). Toss the abandoned Z to the side. Fill the rest.
+    - Sol 3: point the L in center towards a T piece! Solve the rest.
+- Group 2: If you build a heart on the side, then you can use a center ISJ solution.
+    - Or rather, if you see ISJ in center, build a heart on side!
+- Group 3: Double SZ in the hole.
+    - For early / late SZs
+    - The JL sits side by side, too!
+
 
 ### Gamushiro Default
 - It's hell, where do i even begin. Honestly I would just learn the full recoveries. There's too many minimals.

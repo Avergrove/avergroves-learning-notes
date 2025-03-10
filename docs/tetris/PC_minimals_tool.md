@@ -23,3 +23,10 @@ Use the following URLs:
     - Just click on the board to add a tile. Draw the structure you'd like to find a PC for
     - Click "★ Data output", this will generate the fumen code.
     - Copy the fumen code near the bottom left.
+
+## Feed it to the bot
+Type in >help minimals, the bot will tell you how to use the command. More importantly, pay particular note the 
+
+
+The bot uses the following command structure:
+
