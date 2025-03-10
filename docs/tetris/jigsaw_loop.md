@@ -51,8 +51,8 @@ Setup Phase:
                     - Rare solution: This is only one solution:
                         - You will place the I piece first. Then slap in TZO.
             - If we observe that pattern from hint 3, we can make the following conclusions:
-                - Most solves use Heart (So we will be left with )
-                - Solving using the usual orientation with either setup with result in Have T, 
+                - Most solves use Heart (So we will be left with Save T, odd L/J for 2nd PC setups)
+                - This is important because these setups are usually easier to solve, especially we are just starting to learn 2nd PCs.
 
 
 
