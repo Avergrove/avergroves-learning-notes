@@ -77,13 +77,13 @@ Setup Phase:
                 2. TO + ...
                     - Matched Hearts: JZ / LS (Heart + PCO 2nd)
                     - Mismatched heart: JS / LZ (Factory 2nd, else Heart + PCO 2nd)
-                        - Solving is is somewhat difficult, you can memorize just the solution here for now and reset if you fail: https://docs.google.com/document/d/12AF4o6d7acQRlyKLg-071TkYh8ZiYMpQkFS3zVCeRZY/edit?tab=t.0#heading=h.z3hg94crfao6
+                        - Solving it is somewhat difficult, you can memorize just the solution here for now and reset if you fail: https://docs.google.com/document/d/12AF4o6d7acQRlyKLg-071TkYh8ZiYMpQkFS3zVCeRZY/edit?tab=t.0#heading=h.z3hg94crfao6
                         - Later on, feel free to solve it your way!
                 3. T + L/J +...
                     - SZ (Tub + Vertical I 2nd)
                 - Categorization: 
                     - An easy way to remember is TI = Tub series, TO = Heart series solves.
-                    - Broken tub is used if vertical I tub can't be constructed (out of order)
+                    - Broken tub is used if vertical I tub can't be constructed (dependency is out of order)
             - Here are some 2nd PC usermodes you can use to practice so you can memorize them rapidly without having to swap between setups every loop:
                 - Tub + Vertical I 2nd / Broken Tub 2nd:
                     - TI + JZ: https://tinyurl.com/nneyrphn
