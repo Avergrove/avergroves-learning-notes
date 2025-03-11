@@ -2,8 +2,7 @@
 This page talks about the theoretical counter to each playstyle
 
 ## Plonk
-- Your opponent will refuse to build up. 
-- They will use your garbage against you. 
+- Your opponent will use your garbage against you. 
 - The good news is that these opponents are at a defensive disadvantage. As long as you pressure them by sending consistent pressure, they will give in eventually.
 - Try and use only one quad / TSD attack at a time instead of bursting. It's likely they're playing safe.
     - Save the other attack for defense, now you have the plonk advantage!
@@ -31,20 +30,17 @@ This page talks about the theoretical counter to each playstyle
 - It SURE would be a shame if the end of their combo had cheese in the wrong position...
     - If they fail to combo the cheese, they are now forced to downstack and play the game.
     - Therefore, start the game by sending just a bit of cheese, then start building regularly and pressuring!
-    - As always, remember that probably is on your side. There's a 2 out of 10 chance it's a clean send into the well. 8 out of 10 chance it's a blocked send.
+    - As always, remember that luck probably is on your side. There's a 2 out of 10 chance it's a clean send into the well. 8 out of 10 chance it's a blocked send.
+    - However.. please make sure you keep a difficult line clear ready to prevent the cheese.
 
 ## (Center) 4 wide
 - Your opponent will build a center 4 wide, a hybrid between sending cheese and potentially a burst on your attacks. In order to burst down a 4 wider, you will need to send 20 attacks at once, which isn't very doable at mid rank.
 - C4W can be considered a hybrid playstyle. It doesn't excel in anything in particular, but it does everything. Cheese, combo, burst, defense, you name it!
 - Ideally, you should try and send a bit of cheese, then start pressuring, your opponent won't be able to build height and potentially send a burst.
 - Each 4x line sent means less damage returned afterwards (they won't be able to combo as much), in other words, 4wide will effectively be a stat check to see how well you can pressure the opponent.
-
-- Directly pressuring is also an option. Remember that you have the probability advantage when sending garbage.
-    - There's a 4 out of 10 chance they get a nice clean hole
-    - There's a 7 out of 10 chance they get a blocked hole
-
+- Directly pressuring is not always a good idea. If a 4-wider sees you blasting everything at once, they will just accept everything and reset for a massive burst.
 
 ## Inf DS / Cheeser
-- Your opponent will send cheese. Over and over again.
+- Your opponent will send cheese. Over and over again. At the bottom of the board.
 - Your best bet is to cancel cheese using high efficiency attacks. Don't get cheesed! Even the best downstackers know cheese takes a lot of time to clear.
 - Sending clean to them will force them to send clean back to you, so don't forget to save the I-piece to no-u them.

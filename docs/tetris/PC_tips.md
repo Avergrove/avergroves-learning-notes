@@ -1,11 +1,10 @@
 # PC Tips
-It's highly recommended to read the PC Bibble: https://docs.google.com/document/d/1udtq235q2SdoFYwMZNu-GRYR-4dCYMkp0E8_Hw1XTyg/edit?tab=t.0, it will give you an overview of PCing.
+It's highly recommended to read the Introduction to Perfect Clear Theory: https://docs.google.com/document/d/1udtq235q2SdoFYwMZNu-GRYR-4dCYMkp0E8_Hw1XTyg/edit?tab=t.0, it will give you an overview of PCing.
 
 This page mostly discusses PCs in general.
 
 - I think one of the most important point to notice in the document is column parity.
 - "The sum of L/J and vertical T pieces must add up to an even number", which can help you determine whether a T piece needs to be horizontal or vertical.
-    - I'm not sure if single line clears affect this.
 - When learning minimals, it might help to group solutions together.
     - Lime DPC will probably be your first experience of this.
 
@@ -13,8 +12,8 @@ This page mostly discusses PCs in general.
 - A PC loop is 14 lines. The more PCs you can squeeze into a loop, the more score you get.
 - Most PCs will require mental brainpower.
 - Naturally, this means two things:
-    - 14L to one PC is straightforward, but you score less.
-    - 7x consective PCs score the most. But you will be living in hell.
+    - 14L to one PC is straightforward, but you score less. (because you do just one PC per whole loop)
+    - 7x consective PCs score the most. But you will be living in hell, but you will also look cool as hell.
     - So most people go for a balance among the two, usually opting TD openers the finish as 8L PC openers, getting 2 PCs.
     - The alternative is Jigsaw, it can potentially get 3 PCs in a loop!
     - The final form is 7x consecutive PC. It's painful but.. you can do it.
@@ -24,7 +23,8 @@ This page mostly discusses PCs in general.
 - Each PC is advanced by 1 for each 4L
     - 1st Pc -> 2nd Pc -> 3rd Pc -> 4th Pc -> 5th PC -> 6th PC -> 7th PC -> 1st (8th dupe) PC
 - Each PC is advanced by 4 for each 2L PC.
-    - 1st PC -> 5th Pc -> 2nd PC (eyyyy 251 chord progression)
+    - 1st PC -> 5th Pc -> 2nd PC -> 6th PC -> 3rd PC -> 7th PC -> 4th PC -> 1st PC 
+        - If you've played music already, this is basically the circular progression in reverse.
 
     - 1st, 3rd, 4th, 6th PC bag: You are guaranteed to have at least one of the pieces be duplicated.
     - 2nd, 5th, 7th PC bags: you are guaranteed one of 7 unique pieces. Which means you can make setups with dependencies.
@@ -36,8 +36,9 @@ This page mostly discusses PCs in general.
 General guidelines: 
 - Spend your extra pieces on well known setups: jaws, box, etc.
 - We want to get rid of extra SZO because those do not affect column parity and they are troublesome.
+- Try placing only 4 pieces, then look for a solution. Unless you really, really can't, then only place another piece. Don't get addicted to solving high piece setups.
 - We want to save the LJT for the solve if possible.
-- Because we want to get rid of extra pieces from last bag, we need to pay attention to which first should we get rid of:
+- Because we want to get rid of extra pieces from last bag, we need to pay attention to which first pieces visible should we get rid of:
 
 | PC Count | Residue pieces |
 | -------- | -------------- |
@@ -48,9 +49,10 @@ General guidelines:
 | 5th PC   | 2 pieces       |
 | 6th PC   | 6 pieces       |
 | 7th PC   | 3 pieces       |
+
 Pattern: Basically, +4 piece in modulo. or you can just remember the number 0415263.
 
-- When setting up from freestyles, it's better to solve so that the remaining space is compressed from left right or right to left, not from bottom to top.
+- When setting up from freestyles, it's typically to solve so that the remaining space is compressed from left right or right to left, not from bottom to top as this accomodates more pieces orientations
 
 
 ### Setup Phase tips

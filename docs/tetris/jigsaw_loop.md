@@ -2,7 +2,7 @@
 
 |||
 |---|---|
-|![Jaws](/img/tetris/jigsaw_pc/jigsaw_jaws.png)|![PCO](/img/tetris/jigsaw_pc/jigsaw_pco.png)|
+|![Jaws](/img/tetris/pc/jigsaw_pc/jigsaw_jaws.png)|![PCO](/img/tetris/pc/jigsaw_pc/jigsaw_pco.png)|
 |Jaws|PCO Variant|
 
 The Jigsaw loop is a loop that starts with Jaws / PCO variant to achieve a 100% setup rate.
@@ -10,21 +10,27 @@ The Jigsaw loop is a loop that starts with Jaws / PCO variant to achieve a 100% 
 Jigsaw loop is a great learning tool for learning how to work with Perfect Clears. The simplified version will teach and help you grasp the following:
 - Looping (1st PC -> 2nd PC -> DPC)
 - S/Z DPC
-- Recovery
+- Recovery (Tub recovery, S/Z DPC Recovery)
 
 Though you will need to do some analyzing in your spare time and why this is the case.
 
 This page expands beyond the "Ultimate Simplified Jigsaw PC Loop". If you haven't learned that, go read up and learn that first!
 https://torchlight.github.io/tetnotes/simplified-jigsaw.html
 
+The main purpose of this page is not to help you solve the jigsaw 1st and 2nd PC (there's already plenty of resource for those!), but ***rather to help you "gently" dip your toes into 2nd PC step by step and avoid getting overwhelmed.***
+
 This page aims to help you learn to perform the 1st and 2nd PC too! So you will also be learning the following:
 - Saving T for 2nd PC
 - Getting familliar with 2nd PC setups.
+- Column parity.
 
 - Because ML already has a page showing an overview of the solves on Jigsaw (which is fantastic, actually, go give it a look!), this page will instead focus on how to categorize solutions together and learn how to practice them!
     - https://docs.google.com/document/d/13EGXMdc4s_zRhp9VFD7Wq8VhLhAj_6MA4Cge0pvo0m8/edit?tab=t.0#heading=h.i9k2ip5co7ul
 
-## 1st PC
+### Procedure
+Let's first talk about the procedure on how to analyze it, and later talk about the theory behind it!
+
+#### 1st PC
 - Setup Phase:
     - The correct build direction can be determined by the first S/Z that arrives. Place it such that it is horizontal and pointing towards the middle of the field.
         - This will allow you to start the loop 100% of the time.
@@ -36,7 +42,7 @@ This page aims to help you learn to perform the 1st and 2nd PC too! So you will 
             
             |||
             |---|---|
-            |![Jaws Lucky solution](/img/tetris/jigsaw_pc/lucky_solve_1.png)|![PCO Variant lucky solution](/img/tetris/jigsaw_pc/lucky_solve_2.png)|
+            |![Jaws Lucky solution](/img/tetris/pc/jigsaw_pc/lucky_solve_1.png)|![PCO Variant lucky solution](/img/tetris/pc/jigsaw_pc/lucky_solve_2.png)|
             |Jaws|PCO Variant|
 
         - Otherwise, look for another way to PC
@@ -63,7 +69,7 @@ This page aims to help you learn to perform the 1st and 2nd PC too! So you will 
                         - You will likely be able to solve if the fourth piece is an I or O piece. (Are you seeing a repeating pattern here?)
                     - Unique solution: The L is placed horizontally.
                         - You will always need an I piece.
-                        - ![horizontal L Placement](/img/tetris/jigsaw_pc/PCO_hori_L.png)
+                        - ![horizontal L Placement](/img/tetris/pc/jigsaw_pc/PCO_hori_L.png)
                         - The remaining slot can be solved with any 2-piece Heart combination \<3
                     - Rare solution: This is only one solution:
                         - You will place the I piece first. Then slap in TZO.
@@ -73,7 +79,7 @@ This page aims to help you learn to perform the 1st and 2nd PC too! So you will 
 
 
 
-## 2nd PC
+#### 2nd PC
 - Setup Phase:
     - Beginner Path:
         - Lucky JSO / LZO:
@@ -89,13 +95,11 @@ This page aims to help you learn to perform the 1st and 2nd PC too! So you will 
             - The most common residues will be the following:
                 1. TI + ...
                     - Matched Heart: JZ / LS (Tub + Vertical I 2nd)
-                    - Mismatched heart: JS / LZ (Broken Tub 2nd)
-                    - O + Z/S (Mount, hold O 2nd, it's kind of rare.)
+                    - Mismatched heart: JS / LZ (Tub + Vertical I 2nd / broken tub 2nd)
+                    - O + Z/S (Mount, hold O 2nd, it's kind of rare because using LJ during 1st PC is rare.)
                 2. TO + ...
                     - Matched Hearts: JZ / LS (Heart + PCO 2nd)
                     - Mismatched heart: JS / LZ (Factory 2nd, else Heart + PCO 2nd)
-                        - Solving it is somewhat difficult, you can memorize just the solution here for now and reset if you fail: https://docs.google.com/document/d/12AF4o6d7acQRlyKLg-071TkYh8ZiYMpQkFS3zVCeRZY/edit?tab=t.0#heading=h.z3hg94crfao6
-                        - Later on, feel free to solve it your way!
                 3. T + L/J +...
                     - SZ (Tub + Vertical I 2nd)
                 - Categorization: 
@@ -116,7 +120,53 @@ This page aims to help you learn to perform the 1st and 2nd PC too! So you will 
                     - TIO + S: https://tinyurl.com/2tv238pd
                     - TIO + Z:  https://tinyurl.com/2uevv86f
 
-## 3rd PC / DPC
+#### 3rd PC / DPC
 From this point on, you can either go for DPC to practice the basic 1-2-DPC loop, or Freestyle for 7 PCs, glhf!
 - Theoretically, most people die inside if they get S/Z for the 3rd PC (Because solving it is painful), so if you are learning to consecutive PC, go for a save O back in 2nd PC! Because lots of solutions there involves heart shapes, there is a likely chance you can swap an O out for an SZ.
 - Either way, try and freestyle up to 7th PC if you'd like if you're practicing! The freestyle pc tips can be found in PC_Tips.md
+
+## Theory
+### Column Parity and why solutions have even / odd J/L pair counts.
+If you've been solving the (regular) PCO setup or Jigsaw for a while now, you may start noticing a pattern. 
+
+- You might have told yourself something like the following before:
+    - "Okay, if I place a T piece in the solution, then I need to do a floating line clear"
+    - "If I drop a vertical T piece here, this hole can be symmetrical, I just need two symmetrically pair to solve this, like I+O, or S+Z, or L+J"
+
+- Well, the reason answers both of those question boils down to the following (important) concepts
+    - Parity
+    - Column parity
+
+- Parity is something you may have heard before while playing versus. Now let's put a checkerboa-
+    - Well, actually, if you're reading this, you probably know about it already. Basically a T-piece is the only piece that can affect the board parity, while floating line clears *might* shift pairty, depending on the lines above the clear.
+
+- Column parity is a similar concept to parity, but instead of laying a checkerboard on the tetris matrix, we lay vertical lines onto the field. This gives us two interesting facts:
+    - The J, L, and vertical T piece can alter column parity!
+    - Column parity is *not* affected by line clears! When you clear a line, blocks simply fall down, not sideways.
+
+![Intro to Perfect Clear Theory](/img/tetris/pc/intro_to_pc_column_parity.png)
+
+#### Why column parity matters
+- If you've been reading the <a href="https://docs.google.com/document/d/1udtq235q2SdoFYwMZNu-GRYR-4dCYMkp0E8_Hw1XTyg/edit?tab=t.0#heading=h.z6ne0og04bp5">"Introduction to PC Theory"</a> recommended at the start, you might see the following:
+***The column parity rule states that the number of L pieces, J pieces, and “vertical” T pieces together must sum to an even number for any PC.***
+- This is a very important point, if we count the number of L and J pieces in the current PC (4L), we can rule out a large number of solutions that wouldn't work in advance, and help reduce mental power needed!
+    - In the case of jigsaw just like during the solve above, you will notice that I pointed out things like "You will need an LJ pair", "You will need one L/J", this is because can see this in advance based on what we already place on the board.
+    - This rule explains why some of the setups work better than the others; When you are forced to place an odd number of column parity pieces, you might get unlucky and end up not being able to solve because ytou ran out of column parity pieces.
+    - Because column parity imbalance can't be resolved by floating line clears (as compared to checkerboard parity), it's important that we pay attention to the number of pieces we have available before solving!
+- So once you've gotten familliar with column parity in Jigsaw, let's try and extend this knowledge to consecutive PC.
+
+### What's a "Heart" and why is it mentioned a lot?
+
+Hearts are two-piece setups that look like a heart when rotated 45 degrees.
+
+This is a heart:
+![Heart](/img/tetris/heart.png)
+![Many Hearts](/img/tetris/many_hearts.png)
+
+A heart is effectively a 3x3 box with one block chopped out. 
+
+The main reason it's interesting is that there's a lot of ways to make these, using any two from involving L/J + SZO!
+
+It's also the fundamental building unit for 6-3 stacking, so make sure you learn them!
+
+Hearts are interesting because they can help you build rectangles, nice shapes that will enclose pesky S/Z pieces. The 1x hole in the corner also becomes a foundation for many other combinations
