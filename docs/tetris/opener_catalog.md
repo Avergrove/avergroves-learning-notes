@@ -1,13 +1,13 @@
 # Opener catalog
 - This page describes the opener I use.. or used.
-- For TKI and MKO, I would highly recommend learning their PC routes! As a beginner it's likely you can't sustain LST stacking for long, so having PC as alternatives to clear garbage against SDPC and Stickspin is really strong!
-- TODO: Add links to practice PC patterns for each of these openers.
+- I use two sets of openers: memorized and freestyle ones.
+- Memorized ones are used when opponents use high attack openers / 4wide, freestyle ones are used if opponents stack regularly from the start.
 
 ## Early I Opener
 ### TKI
 - ![TKI Opener](/img/tetris/openers/tki.png)
 - Hard Drop: https://harddrop.com/wiki/TKI_3_Opening#Flat_Top_variation
-- Early I opener
+- Early I freestyle opener
 - Great for learning 7-2 stacking. Starts with an early TSD for defensive measures if needed.
     - Remember, you don't have to pop that TSD immediately! If you have a follow up in mind, just build those first. As always, you don't want to send free cleans..
 - Flat top TKI is also the traditional choice to transition into LST.
@@ -21,20 +21,28 @@
     - Otherwise, just LST stack (normally). Practice squeezing 2x more TSDs if you can! If you don't see any other way forward, just start downstacking.
         - You will be surprised how high one side of your stack will grow when you don't have options. If a garbage appears at that side then well... you're cooked.
 
+### Reliable TSD
+- Hard Drop: https://harddrop.com/wiki/Reliable_TSD
+- Early I memorization opener
+- It's 3 TSDs! What's not to like?
+
 ## Early LJ Opener
 ### MKO
 - ![MKO Opener](/img/tetris/openers/mko.png)
 - youknowthecopypasta
 - Hard Drop: https://harddrop.com/wiki/MKO_Stacking
-- Early LJ opener
+- Early LJ freestyle opener
 - Like TKI except for LJ bags. Transitions seamlessly to 6-3
 - It's a bag two TSD, but still incredibly versatile, being able to also transition to 7-2, 6-3, and 5-4 at the same time! 
     - This means you can adjust accordingly to where the garbage is at 30% chance.
 - You should learn the 4L PCs. Usually if a bag is annoying to stack, you can get a 4L PC! It's likely you won't get the PC damage off, but it does keep your well clean!
     - MKO also makes a great opportunity to learn 2nd PCs. Uniquely MKO has access to TTSZ 2nd PC boards!
 - There's also a 8L PC! It's extra follow methods in following up, so might as well learn it!
-- MKO is generally a bit dangerous to use if you aren't experienced at stacking (me) especially with Waste T because you will have a long downtime when you can't downstack. As a compromise... please don't try to build more TSDs after a waste T..
+- MKO is generally a bit dangerous to use if you aren't experienced at stacking (me) especially with Waste T because you will have a long downtime when you can't downstack. As a compromise... please don't try to build more TSDs after a waste T.
 
+### DT Cannon
+- It's often the one of the first opener taught to beginners... and get them addicted to spiking. But it's still extremely useful nontheless.
+- Early LJ memorization openers.
 
 ## Early O Opener
 ### SDPC:
@@ -46,9 +54,11 @@
 - The JL in bag 1 is interchangeable! See: Kezdabez' video
 
 ## Early SZT Opener 
-- None! I use the 100% build cover openers..
+### Dragon bucket
+- Pros: It has dragon in the name. So I'm obliged to learn it.
+- Uniquely, it's an SZ opener that doesn't require other early dependencies.
 
-## 100% Build cover
+## 100% Build cover Openers (TD Openers)
 ### MS2 (Mountainous Stacking 2)
 - ![MS2 Opener](/img/tetris/openers/ms2.png)
 - 100% Build cover (if mirrored)
@@ -70,6 +80,11 @@
 - Even if you get hit by garbage early, you still have an I piece. And there's plenty of empty space on the field so it's quite likely you will get a clean well.
 - It's honestly surprisingly reasonable if you're slower at an opener.
 
+## Invisible Openers
+These are openers use for invisible mode. They loop endlessly.
+### Mechanical Heart
+
+### Basic TSZ + LOJ stacking
 
 ## Blitz Opener
 ### PC Loop

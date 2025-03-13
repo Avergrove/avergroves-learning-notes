@@ -7,3 +7,4 @@
     - A good practice for this is backfire, try and end your opener early in different parts of your opener as the attack returns!
 4) If your opponent knows how to revenge your opener, you might actually want to use a more versatile opener (low and flat) than a kill one and play a whittle down game instead.
 5) If you and your opponent are using the same opener. The faster one wins if both keep going at it. The slower one is forced to downstack... and potentially backfire the garbage back at faster player.
+    - So you should use a flat opener with equal access to downstack.

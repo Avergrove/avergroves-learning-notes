@@ -44,7 +44,11 @@
 
 ### Offense
 - Chances are your opponent also has some decent downstacking skill now! But, if you time your attacks correctly, you might just be able to top them out..
-- Timing: This means paying attention to when your opponent is vulnerable. If you send your attacks while they are low, you are giving them free ammo to send back to you, so again, if you see a TSD, it doesn't mean you have to take it!
+- Timing 1: This means paying attention to when your opponent is vulnerable. If you send your attacks while they are low, you are giving them free ammo to send back to you, so again, if you see a TSD, it doesn't mean you have to take it!
+- Timing 2: The best time to send is..
+    - When your opponent is higher: send after your opponent sends
+    - When your opponent is lower: Cancel your opponent sends
+    - When your opponent is lower but garbage well is hopelessly blocked: Well, just send away! What's the worst they could do? Dig down?? In this parity imbalance economy???
 - Pressuring: On the flipside, if your opponent is having trouble downstacking, then it's a fantastic time to attack!
 - Spiking: It's a good idea to learn spiking too, Caboozled_pie and KezDaBez has a great video that has a quick rundown on spiking
         - caboozled_pie: https://www.youtube.com/watch?v=fGVEDrNqVzE

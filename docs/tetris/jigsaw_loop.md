@@ -32,6 +32,10 @@ Let's first talk about the procedure on how to analyze it, and later talk about 
 
 #### 1st PC
 - Setup Phase:
+    - Jigsaw loop is a two-setup opener. It has a 100% build rate, but you will need to pay attention to the dependencies!
+    - To figure out the correct build direction, we need to search for dependencies. 
+        - From the image at the top, we can see that Z is a dependency of S. So we must first place S.
+        - The T piece can't be placed with Z is comes before S, so we must first place S.
     - The correct build direction can be determined by the first S/Z that arrives. Place it such that it is horizontal and pointing towards the middle of the field.
         - This will allow you to start the loop 100% of the time.
 
