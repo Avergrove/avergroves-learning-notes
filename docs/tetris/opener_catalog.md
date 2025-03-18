@@ -32,40 +32,52 @@
 - youknowthecopypasta
 - Hard Drop: https://harddrop.com/wiki/MKO_Stacking
 - Early LJ freestyle opener
-- Like TKI except for LJ bags. Transitions seamlessly to 6-3
-- It's a bag two TSD, but still incredibly versatile, being able to also transition to 7-2, 6-3, and 5-4 at the same time! 
-    - This means you can adjust accordingly to where the garbage is at 30% chance.
-- You should learn the 4L PCs. Usually if a bag is annoying to stack, you can get a 4L PC! It's likely you won't get the PC damage off, but it does keep your well clean!
-    - MKO also makes a great opportunity to learn 2nd PCs. Uniquely MKO has access to TTSZ 2nd PC boards!
-- There's also a 8L PC! It's extra follow methods in following up, so might as well learn it!
-- MKO is generally a bit dangerous to use if you aren't experienced at stacking (me) especially with Waste T because you will have a long downtime when you can't downstack. As a compromise... please don't try to build more TSDs after a waste T.
-
-### DT Cannon
-- It's often the one of the first opener taught to beginners... and get them addicted to spiking. But it's still extremely useful nontheless.
-- Early LJ memorization openers.
+- Like TKI except for LJ bags. Transitions seamlessly to 6-3 (Though you always have the option to go into 5-4 or 7-2, it's more natural to go into 6-3)
+- It's recommended that you learn these 3 scenarios at least when using MKO:
+    - 4L PC: They are "easy" to spot! Just go for it when you see it! You always need an O piece.
+    - Waste T: Most tutorials recommend going for air TSDs, but for me, I just go for quads because I'm not that good yet. The next T piece has a habit of coming fairly late, so you might be able to build a TST set up in the meantime without wasting a T piece.
+        - Of course, the start of the match has the most garbage.. so be careful!
+    - Incomplete TST: If you didn't waste T and decide to go for a 6-3 stacking style, there's a very likely chance you will see this scenario, you can find it on four.lol
+- Extras:
+    - 6L PC: 100% chance of PC if you practice enough!
+        - take note there's no solution if J comes as the fourth piece, you must use the piece after the J.
+        - You can practice it <a href="https://himitsuconfidential.github.io/downstack-practice/usermode.html/______XXXX_____XXXXXX___XXXXXXXX__XXXXXX=[SOT]!,[ITOSZL]">here!</a>
+    - 8L PC: It's "only" 88.33% chance, you will probably mess up your board if you fail.. nothing is stopping you from learning it, though.
 
 ## Early O Opener
+### Hachispin
+- Early O "freestyle" opener
+- Sends a TSS -> TST. What you want to do afterwards is up to you!
+It's recommended for you to get familliar with the residue left behind:
+    - Basic TSD: Just slide in a J/L piece. This lets you pick either 7-2, 6-3, or 5-4. 
+    - TSS -> TSD: If you have a J/L + S/Z combo
+    - PC: If you get an early TS / TL, you can do an 8L PC at 100% success rate!
+- Like MKO and TKI, Hachispin leaves a flat field behind so you can quickly abort the opener and downstack as needed.    
+
 ### SDPC:
 - ![SDPC Opener](/img/tetris/openers/sdpc.png)
 - "Early" O opener. 
-    - Early is in quotation marks because you can use it whenever SZT doesn't before that..
+    - Early is in quotation marks because you can use it whenever SZT doesn't come before O..
 - The most common usage is SDPC spin. It deals massive damage. But please don't abuse it.
 - The other use is the original SDPC. It's less of a crutch and frankly pretty badass whenever you get an all clear with it. The all clear is also very defensive, as compared to SDPC spin because you get a clean, flat field.
 - The JL in bag 1 is interchangeable! See: Kezdabez' video
+        - The respective DPC continuations for this is I / SZ DPC.
 
 ## Early SZT Opener 
 ### Dragon bucket
+- Hard Drop: https://harddrop.com/wiki/Dragonbucket
 - Pros: It has dragon in the name. So I'm obliged to learn it.
 - Uniquely, it's an SZ opener that doesn't require other early dependencies.
+- The bag 2 TST lets it counteract most garbage and send an annoying 3-line to the opponent
+- Thanks to all mini you can kind of deviate away from the original bag 3 and slide in the L instead for a b2b stack and a clean field and a TSD slot available.
 
 ## 100% Build cover Openers (TD Openers)
 ### MS2 (Mountainous Stacking 2)
 - ![MS2 Opener](/img/tetris/openers/ms2.png)
 - 100% Build cover (if mirrored)
 - To determine the correct direction, pay attention to the first L/J that arrives.
-- If Hachispin is a weaker counterpart to SDPC spin, then DOT cannon is a weaker counterpat to MS2.
 - Go to Harddrop, and look at Cover C (Stray Cannon) / Cover E (Compromise)
-- Then learn the rest!
+- ... Then learn the rest!
 
 ### Kisaragi Stacking
 - John Beak: https://tetris.johnbeak.cz/8l/kisaragi.php
@@ -79,32 +91,6 @@
 - It sends ...a single line. but a single line is the difference between the enemy PCing or using your garbage against you.
 - Even if you get hit by garbage early, you still have an I piece. And there's plenty of empty space on the field so it's quite likely you will get a clean well.
 - It's honestly surprisingly reasonable if you're slower at an opener.
-
-## Invisible Openers
-These are openers use for invisible mode. They loop endlessly.
-### Mechanical Heart
-
-### Basic TSZ + LOJ stacking
-
-## Blitz Opener
-### PC Loop
-See the following thread:
-https://old.reddit.com/r/Tetris/comments/1g58tg8/what_8l_pc_should_i_learn_for_dpc/
-
-- Basically:
-    - Learn SDPC
-    - Learn Tsar Cannon + Satsuki
-    - I would learn SDPC first since it's usable in VS, too!
-
-- The theoretical PC expert would go for 7x consecutive PC.
-    - However, a compromise would be Jigsaw loop.
-    - For beginners, there's even a simplified Jigsaw loop!
-        - https://torchlight.github.io/tetnotes/simplified-jigsaw.html
-
-
-### Wabi-sabi mode
-- Wabi-sabi = no perfect clears allowed
-- Basically use any opener that transitions into 6-3 or 7-2 and stack away!
 
 
 ## Other openers
@@ -190,12 +176,3 @@ https://old.reddit.com/r/Tetris/comments/1g58tg8/what_8l_pc_should_i_learn_for_d
 - An easier way to wrap around it is only go for a PC if you have an early TSD so you can eyeball the rest.
     - Hint: The T piece is always for TSd, the O piece always sit at the same position.
 - The relevant PCs are Save-S and save-T DPC.
-
-### Hachispin
-- Why I stopped using: You are still more likely to construct SDPC. 
-- Early O opener
-- Your opponent is likely to be using SDPC spin. And honestly, I would partially recommend it haha. Anyway, I'm sticking with Hachispin for now.
-- Sends a TSS -> TST. What you want to do afterwards is up to you!
-    - Continuation: TSD. This lets you pick either 7-2, 6-3, or 5-4. You can use it to build around a garbage hole!
-    - Continuation: PC. If you get an early TS / TL, you can do an 8L PC! Surprisingly enough, you will likely be able to pull the PC off because your opponent is likely using SDPC spin.
-        - The respective DPC continuations for this is I / SZ DPC.
