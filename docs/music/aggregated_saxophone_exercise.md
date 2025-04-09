@@ -14,8 +14,11 @@ Most of these exercises are actually done together with scales.
         - Instead of major scale, use minor scale, dorian mode.. whatever, as long as it's up, down, minor second up.
         - Instead of minor second up a key, it can be anything.
         - Mix and match these two for more "fun".
+3. Chords
+    - Try playing all chords in a scale
+    - Try playing all chords of the same type up and down the chromatic scale.
 
-A sign that you aren't familliar with a scale is key mashing. You might try to hurry up and mash a key because you can't keep up.
+A sign that you aren't familliar with a scale is key death mashing. You might try to hurry up and mash a key because you can't keep up.
 
 ### Tone
 1. Long Tone
@@ -32,10 +35,11 @@ A sign that you aren't familliar with a scale is key mashing. You might try to h
         - How long your breath is.
         - How clean is your pitch bend
         - How correct your tone is on first blow.
+        - How on point your note is to a tone at the point of attack. (Especially second D to F!)
 
 ### Pitch Bending
 1. Long tone Pitch Bending.
-    - If you want to learn pitch bending, we need to isolate the exericse from other techniques first.
+    - If you want to learn pitch bending, we need to isolate the exercise from other techniques first.
     - Try playing an second E and pitch bend it. Second E specifically because it's "easier"
 2. Tuning to a Drone
     - Next, let's try tuning to a drone!

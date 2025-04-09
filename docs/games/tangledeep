@@ -1,0 +1,42 @@
+# Tangledeep
+
+## Cooking
+- Cooking is used to improve recovery / turn. 
+- Ingredients usually have 2 types: A weaker one and a stronger one.
+- You should use the weaker ingredient for cooking, and stronger ingredient for general healing.
+    - Using a strong ingredient for cooking will result in less net stat recovered.
+    - Please don't use campfire food for cooking.
+
+- "Weak" ingredients
+    - HP: Turkey
+    - Stamina: Fine cheese
+    - Energy: Chai Qi cookies
+    - Hybrid: Apple
+
+- "Strong" ingredients
+    - HP: Chicken dinner
+    - Stamina: Cheese wheel
+    - Energy: Box of mints
+    - Hybrid: Bunch of Bananas
+
+- "Buff" ingredients
+    - Milk
+    - 
+
+- Miscellaneous ingredients have no use on their own:
+- Misc ingredients
+
+- Don't use as ingredient: Chicken dinner, banana bunch
+
+- Recipe is split into 3 categories: 
+    - Efficiency: Increases heal per second by condensing 2 ingredients together
+    - Conversion: Converts non-healing items into healing ones.
+    - Utility: Items that you might find useful. The problem is that they make you full..
+| Recipe | Category | Ingredients | Notes | 
+| ------ | -------- | ----------- | ----- |
+| Meat Kebabs      | Efficiency (HP) | 2x Turkey leg |
+| Fruit Bowl       | Efficiency (Hybrid) | 2x Apple   |
+| Gelato           | Efficiency (Energy) | 
+| Ice Cream Sundae | Conversion (Hybrid) | Milk + Apple + Chocolate |
+| Fish and Chips   | Conversion (HP) | Fish + 2x Grain | 
+| Makizushi        | Conversion (HP) | 2x Fish + Grain |

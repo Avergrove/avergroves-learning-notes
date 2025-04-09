@@ -25,3 +25,8 @@ It's generally similar to Regex but not really.
 >allspin_sol_finder v115@ngB8GeD8FeG8CeG8BeI8AeI8AeD8JeAgH OJIZLTS 7
 
 
+
+
+Examples:
+- Lime DPC
+     - S,S,T,[IOJLZ]!,[*]!

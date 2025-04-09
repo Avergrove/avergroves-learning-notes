@@ -1,7 +1,7 @@
 # Saxophone
 Melody section instrument in the jazz trifecta (Melody, rhythm, percussion)
 
-In reality, these are (slightly more refined) notes I've taken down while taking lessons at Rubato Music. So it maybe out of order outside of the first section.
+In reality, these are (slightly more refined) notes I've taken down while taking lessons at Rubato Music. So it may be out of order outside of the first section.
 
 ## Fundamentals
 By fundamentals, I mean embouchure and air support! 
@@ -123,6 +123,7 @@ So we need to look into two exercises
     a. You can always try pitch bending
     b. Long tone challenge: How long can you hold your breath at a steady tone?
     c. Long scale tones: Try and hit the correct pitch
+- Song of the lesson: Polka dots and Moonbeams
 
 ---
 ## Episode 3
@@ -189,3 +190,85 @@ Should embouchure be a push force or curl force?
 
 
 ---
+## Episode 6
+- Interestingly, if you are not playing in tune with someone, nearby snares will start to vibrate!
+- Practicing the Low B -> Bb transition:
+    - A good way to check you are doing correctly is that the B pad near the end of the saxophone doesn't open
+- It's actually possible to play "undertones" on the saxophone, this is a great way to determine if you are blowing correctly!
+    - You can perform this by pressing the corresponding upper octave key, and play the lower octave note. Try it! Your saxophone is broken, this is indeed a possible thing, although it will be tricky, and airyness is expected thanks to the open octave air vent.
+- When sight reading, the 4 fundamental things you need to take note of in general to the whole music is the following:
+    - Time Signature
+    - Key signature
+    - Accidentals
+    - Repeats
+- When sight reading, it's better to abandon a note than to let your error cascade, remember, you're not playing a rhythm game! Mashing your notes will NOT work.
+- When sight reading, play through your mistakes first! You don't want to just stop. 
+    - Typically you will just play without stopping
+        - Seriously, don't, you really don't want each person in a 7 man band to wait for that 1 person... and then another person flubs up.
+    - Then review your mistakes
+    - Then fix the mistakes
+    - Finally, perform one more time!
+- Keep practicing second D, ideally you should be able to get it right without having to compensate!
+    - You will need to get used to loose embouchure. 
+- Phrasing: Even when you breathe can be part of a phrase!
+- Pitch bending: Try and relax both your lips and chin! You really don't want to cancel each other out and prevent your pitch from getting bent..
+- song of the lesson: A child is born
+
+---
+## Episode 7 (Mar 28 2025)
+
+- You should tongue more: Try and aim for a clean tongue at high bpm! (of course you dont actually tongue every single note when phrasing.. but as a beginner, you should practice!)
+- For british note names, try thinking of them in terms of note length!
+    - Semibreve: 1 note per bar
+    - Minim: 2 notes per bar
+    - Crotchet: 4 notes per bar
+    - Quaver: 8 notes per bar
+    - SemiQuaver: 16 ntoes per bar
+    - DemiSemiQuaver: 32 notes per bar
+    - HemiDemiSemiQuaver (wtf name): 64 notes per bar
+
+- Transposition:
+    - When playing an alto saxophone from alto sax sheets, the concert note you are playing is transpose minor third up.
+    - When playing an alto saxophone from concert sheets, the note you need to play is transpose minor third down.
+
+    - When playing a tenor saxophone from a tenor sax sheet, the concert note you are playing is transpose major second down.
+    - When playing a tenor saxophone from a concert sheet, the note you need to play is transpose major second up.
+
+    - When playing a piano from alto sax sheets, the note you need to play is transpose minor third up.
+    - When playing a piano from tenor sax sheet, the note you need to play is transpose major second up.
+
+- Tuning:
+    - Alto saxophones usually tune to G, this is actually Bb in concert pitch!
+    - Bb are often tuned to in jazz since most brass instruments has that note in open fingerings. (Trumpet, tenor sax)
+    - fun fact: strings tune to A, maybe it's just arbitrary classical reason like A = 440 hz.
+    - Remember, tune the instrument, not you. Your first tuning note should be correct, then you learn to adjust for other notes.
+
+- Embouchure: Remember, the correct letter to pronounce is "F", not "Mmmmm"
+    - Do you remember learning to use the letter "vo-", it works even better.. maybe! Either way, it's a lower flat chin.
+
+- Breathing through your mouth is an opportunity to reset your embouchure.
+    - Please never breath through your nose.
+    - Also dont breath through the sax, that's how you get sax lungs.
+
+- Exercise of the week:
+    - Learn to breathe with your diaphragm automatically:
+        - .. using only your mouth. nose is a death sentence.
+        - Don't be panicky when breathing, it should be natural!
+    - Figure out how to get your embouchure consistent
+        - Actually, weren't you playing with a 2 reed instead of a 2.5 reed for a while?
+    - Get a nice tongue attack
+        - By the way, don't forget to tongue every note when practicing scales! It's not something you do when phrasing, but it IS something you need to practice!
+    - Learn to figure out how much air you can sustain. 
+
+    ---
+    ## Episode 8 (Apr 3 2025)
+    - 2ne register DEF: As always, practice target the pitch to be correct the moment you play it!
+    - To prevent air from leaking into your cheeks, you can try sucking your cheeks in (although mine feel more like swelling on the right side...)
+    - Rubato: The out of time thing is called Rubato. Rubato should be structured! You can take time here and there, but you *must* return it back and start and end the notes cleanly on beat!
+        - Be attentive to the divisions, phrases are often in 4 bars.
+        - If you want to rubato... learn to keep time first!
+        - If you are doing rubato the first time, chances are it will sound "better" than just crotchets / quarter notes, like you are actually singing! But something will still sound bad...
+            - The answer is time, even though you take time here and there, your rubato must still be on beat! Always respect the time!
+    - The real book is not gospel, make sure to listen to the music and listen to how people rubato it!
+        - ... this holds true especially for lead sheets that are just crotchets / quarters, you will not have a good time playing as-is.
+    - Thinner > Paint, wait, why is this in my notes again?  I mean yes the hobby shop is there but what the hell is thinner > paint supposed to mean

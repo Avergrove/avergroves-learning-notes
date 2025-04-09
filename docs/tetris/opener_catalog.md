@@ -1,7 +1,7 @@
 # Opener catalog
 - This page describes the opener I use.. or used.
-- I use two sets of openers: memorized and freestyle ones.
-- Memorized ones are used when opponents use high attack openers / 4wide, freestyle ones are used if opponents stack regularly from the start.
+- I learn two sets of openers: memorized and freestyle ones.
+- Memorized openers send much attack from the start, but freestyle ones are usually flat and have plenty of options (offense vs downstacking as needed)
 
 ## Early I Opener
 ### TKI
@@ -45,15 +45,6 @@
     - 8L PC: It's "only" 88.33% chance, you will probably mess up your board if you fail.. nothing is stopping you from learning it, though.
 
 ## Early O Opener
-### Hachispin
-- Early O "freestyle" opener
-- Sends a TSS -> TST. What you want to do afterwards is up to you!
-It's recommended for you to get familliar with the residue left behind:
-    - Basic TSD: Just slide in a J/L piece. This lets you pick either 7-2, 6-3, or 5-4. 
-    - TSS -> TSD: If you have a J/L + S/Z combo
-    - PC: If you get an early TS / TL, you can do an 8L PC at 100% success rate!
-- Like MKO and TKI, Hachispin leaves a flat field behind so you can quickly abort the opener and downstack as needed.    
-
 ### SDPC:
 - ![SDPC Opener](/img/tetris/openers/sdpc.png)
 - "Early" O opener. 
@@ -64,12 +55,6 @@ It's recommended for you to get familliar with the residue left behind:
         - The respective DPC continuations for this is I / SZ DPC.
 
 ## Early SZT Opener 
-### Dragon bucket
-- Hard Drop: https://harddrop.com/wiki/Dragonbucket
-- Pros: It has dragon in the name. So I'm obliged to learn it.
-- Uniquely, it's an SZ opener that doesn't require other early dependencies.
-- The bag 2 TST lets it counteract most garbage and send an annoying 3-line to the opponent
-- Thanks to all mini you can kind of deviate away from the original bag 3 and slide in the L instead for a b2b stack and a clean field and a TSD slot available.
 
 ## 100% Build cover Openers (TD Openers)
 ### MS2 (Mountainous Stacking 2)
@@ -176,3 +161,21 @@ It's recommended for you to get familliar with the residue left behind:
 - An easier way to wrap around it is only go for a PC if you have an early TSD so you can eyeball the rest.
     - Hint: The T piece is always for TSd, the O piece always sit at the same position.
 - The relevant PCs are Save-S and save-T DPC.
+
+### Dragon bucket
+- Why I stopped using it: It has dragon in the name but.. honestly it's better to just go for a 6-3 for a flat stack.
+- Hard Drop: https://harddrop.com/wiki/Dragonbucket
+- Pros: It has dragon in the name. So I'm obliged to learn it.
+- Uniquely, it's an SZ opener that doesn't require other early dependencies.
+- The bag 2 TST lets it counteract most garbage and send an annoying 3-line to the opponent
+- Thanks to all mini you can kind of deviate away from the original bag 3 and slide in the L instead for a b2b stack and a clean field and a TSD slot available.
+
+### Hachispin
+- Why I stopped using it: SDPC is superior. 
+- Early O "freestyle" opener
+- Sends a TSS -> TST. What you want to do afterwards is up to you!
+It's recommended for you to get familliar with the residue left behind:
+    - Basic TSD: Just slide in a J/L piece. This lets you pick either 7-2, 6-3, or 5-4. 
+    - TSS -> TSD: If you have a J/L + S/Z combo
+    - PC: If you get an early TS / TL, you can do an 8L PC at 100% success rate!
+- Like MKO and TKI, Hachispin leaves a flat field behind so you can quickly abort the opener and downstack as needed.    

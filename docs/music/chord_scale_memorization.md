@@ -91,3 +91,17 @@ These scales aren't entirely dissonant and sometimes actually have whole songs r
 - Like a major scale except the third is flattened. Works surprisingly well with major scale in adding bluesiness.
     - To be fair that's literally what major blues is..
 - Similar to the whole tone scale, you can mash the keyboard with all the melodic minor scale keys and it will sound fine...
+
+
+## Subtopic: 13th chord scales
+- A 13th chord implies every note in a scale is used! It's easier to remember it as a scale and adjust accordingly.
+- Here are some "commonly" used ones
+
+| Chord Symbol  | Constructed scale |
+| ------------  | ------------- |
+| C △13        | C Major scale  |
+| C △13 #11    | C Lydian Scale |
+| C 13          | C Mixolydian   |
+
+- Another way to think of 13ths is think of 9th as manor chord starting on 2nd.
+
