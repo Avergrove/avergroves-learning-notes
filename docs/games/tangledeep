@@ -1,11 +1,10 @@
 # Tangledeep
-
 ## Cooking
 - Cooking is used to improve recovery / turn. 
 - Ingredients usually have 2 types: A weaker one and a stronger one.
 - You should use the weaker ingredient for cooking, and stronger ingredient for general healing.
     - Using a strong ingredient for cooking will result in less net stat recovered.
-    - Please don't use campfire food for cooking.
+    - Please don't use campfire roasted food for cooking.
 
 - "Weak" ingredients
     - HP: Turkey

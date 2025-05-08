@@ -5,6 +5,15 @@ I'm trying to write tips beyond "stack flat" here, but I'll still put them here 
 I am also by means an LST expert (I haven't done a 20TSD successfully yet), the entire point of this document here is to showcase what I observed from trying to stack it.
 These are points are primarily aimed towards VS. If you want to spam TSD, Mech TSD might be a good bet since it's pattern stacking and is therefore faster by default.
 
+# Core Rule
+``` If at any point your stack is starting to look very sussy, abort LST immediately and revert back to 7-2 stacking```
+- Sussy can mean many things, but it's usually one of the following:
+    - You wasted a T in the 7-stack
+        - This will make stacking a lot more difficult. Alleviate this by spending another T in the stack.
+    - You are choked with a dependency drought.
+        - Stabilise your stack first!
+
+# Extra tips
 0. Before you learn to run, you must walk! If you can't LST stack, then just do a "normal" stack. As an exercise, try doing a 40L sprint with only quads and TSDs. It will give you a general idea on how to manipulate the jag side and control height.
     - I would even encourage starting with an opener: In particular TKI or any that can versatilly transtion to 7-2. (Hachispin, MKO, Hitosura TSD (HTSD) / Hyperspin). Try and hit the ground running!
     - Alternatively, try and hit B2B x20 in Zen!

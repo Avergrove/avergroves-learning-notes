@@ -261,7 +261,7 @@ Should embouchure be a push force or curl force?
     - Learn to figure out how much air you can sustain. 
 
     ---
-    ## Episode 8 (Apr 3 2025)
+## Episode 8 (Apr 3 2025)
     - 2ne register DEF: As always, practice target the pitch to be correct the moment you play it!
     - To prevent air from leaking into your cheeks, you can try sucking your cheeks in (although mine feel more like swelling on the right side...)
     - Rubato: The out of time thing is called Rubato. Rubato should be structured! You can take time here and there, but you *must* return it back and start and end the notes cleanly on beat!
@@ -272,3 +272,61 @@ Should embouchure be a push force or curl force?
     - The real book is not gospel, make sure to listen to the music and listen to how people rubato it!
         - ... this holds true especially for lead sheets that are just crotchets / quarters, you will not have a good time playing as-is.
     - Thinner > Paint, wait, why is this in my notes again?  I mean yes the hobby shop is there but what the hell is thinner > paint supposed to mean
+
+
+    ---
+
+    3rd F3:
+        - Special F, B, A, right Bb key
+        
+--- 
+
+## Episode 9 (Apr 17 2025)
+
+Exercise of the week: Fix your cheek trembling, <b>this is non-negotiable</b>.
+- You should pucker in your cheeks to keep it strong!
+- One of the reasons your cheek starts trembling is that air starts leaking in, then this air leaks into upper lips, making it not able to relax!
+
+Bonus exercise: Spend a day just doing long tones. One hour of long tones. Im sorry neighbours.
+
+- Your head has a habit of tilting forward while playing, obvious this is a byproduct of excessive computer use so.. let's tilt our head back for a better throat airway, yeah?
+    - Bonus: Your saxophone will not tilt backward 45 degree, too, so push it forward towards your knee!
+
+--- 
+
+## Episode 10 (May 1st 2025)
+
+- Rhythm exercises:
+    - Exercise 1: Fill the beat
+        - Imagine if you are only given the first beat in the bar, you must now play all beats in the bar while still remaining synchronized to the given beat.
+        - Hint: If it's difficult to remain synchronized due to beats being slow, you can always try subdividing beats further.
+    - Exercise 2: Count the beat
+        - You are given a bar of rhythm. Play the measure while doing the following:
+            - Say the beat with your voice, while clapping to the rhythm
+            - Do it the other way around too, clap to the beat while saying the rhythm.
+        - You want to do this with mouth and hands specifically because you are playing the saxophone. Unlike the piano, it's only hand coordination. Now we want to improve our mouth hand coordination.
+
+## Episode 11 (May 5 2025)
+
+- I'm going to be gone for 1 week! So this week's topic is... practicing without your saxophone!
+
+- Reed:
+    - Did you know you can suck on the reed to develop it quicker? A good sign that the reed is fresh is that when you suck on a reed (yes), bubbles will come out.
+        - Apparently internet info says that you can also forcefully blow into the reed from the side that's usually attached to the mouthpiece, that's quite interesting, isn't it?
+        - Also, try experimenting tightiening the ligature more! Like, way more.
+    - A well-developed reed will generally feel right to play, this is especially noticeable when you are starting to use a harder reed. 
+
+- Because you are now playing with a harder reed, chances are, you will play louder the first time.
+    - Embouchure: To play softer with a harder reed, try and get a firmer embouchure and faster air!
+
+- When you don't have your saxophone:
+    - Lung exercises:
+        - Try and avoid hybrid breathing. Make sure you are diaphragmatic breathing purely!
+        - If you want to play soft as mentioned above, you should increase your air speed by bracing your belly, not by expelling more air! This makes air control and expulsion exercises a legit concern to practice.
+        - Want to increase lung capacity? Try and breath in as fully as you can... then breath in again, just a bit more!
+        - Combined together with tonguing, you should be able to play a soft sound cleanly. A bad habit is when you expel too much air just to get the sound "started", this exercise is particularly important.
+    - The "imaginary" instrument
+        - You can always practice chord tones without your instrument. Why not grab a water bottle?
+        - Memorize 4 chords and get practicing to a metronome!
+
+- Suggested song of the week: Mr PC, a 12 bar minor blues. Of particular note is practicing the fingering.

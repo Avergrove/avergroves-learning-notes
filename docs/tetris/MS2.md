@@ -5,6 +5,8 @@
 
 - John Beak can do way better explanations than I do, I'm just writing this down here so I can memorize solutions!
 
+- Also, remember aborting the opener is always an option. You don't always have to loop, and instead you can setup more fractal spikes!
+
 ## In VS
 If Hachispin was a "tamer" version of SDPC, then DOT cannon is the "tamer" version of MS2.
 

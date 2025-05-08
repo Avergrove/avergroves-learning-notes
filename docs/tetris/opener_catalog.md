@@ -8,6 +8,7 @@
 - ![TKI Opener](/img/tetris/openers/tki.png)
 - Hard Drop: https://harddrop.com/wiki/TKI_3_Opening#Flat_Top_variation
 - Early I freestyle opener
+- Technically, this opener refers to the TSD in the first bag. In practice, you want to squeeze at least 3 TSDs out of it.
 - Great for learning 7-2 stacking. Starts with an early TSD for defensive measures if needed.
     - Remember, you don't have to pop that TSD immediately! If you have a follow up in mind, just build those first. As always, you don't want to send free cleans..
 - Flat top TKI is also the traditional choice to transition into LST.
@@ -49,7 +50,10 @@
 - ![SDPC Opener](/img/tetris/openers/sdpc.png)
 - "Early" O opener. 
     - Early is in quotation marks because you can use it whenever SZT doesn't come before O..
-- The most common usage is SDPC spin. It deals massive damage. But please don't abuse it.
+- By the way, to avoid the classic failure to insert T piece in the first bag, use tap back instead of double tap to slow the T piece in.
+- Usage 1:The most common usage is SDPC spin. It deals massive damage. But please don't abuse it.
+- Usage 2: Basically Mech TSD except it's good
+- Usage 3: The original SDPC
 - The other use is the original SDPC. It's less of a crutch and frankly pretty badass whenever you get an all clear with it. The all clear is also very defensive, as compared to SDPC spin because you get a clean, flat field.
 - The JL in bag 1 is interchangeable! See: Kezdabez' video
         - The respective DPC continuations for this is I / SZ DPC.

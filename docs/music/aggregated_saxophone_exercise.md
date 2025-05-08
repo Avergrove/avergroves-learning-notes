@@ -49,3 +49,14 @@ A sign that you aren't familliar with a scale is key death mashing. You might tr
     - Finally, learn to tune your sound to someone else. This is important because in a band, we want to blend in together to form a loud, unified sound.
     - This is also useful if you don't have a tuner (practically impossible).
     - As an additional exercise, try and play, tune your mouthpiece, play again. Do this in as little time as possible.
+
+
+### Breathing exercises
+1. Diaphragmatic breathing
+    - You should *always* be breathing deeply!
+
+2. Improving lung capacity
+    - Try and breath fully... and then breath more!
+
+3. Air expulsion
+    - Try and increase air output speed using your body core instead of expelling more air.

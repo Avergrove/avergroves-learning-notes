@@ -63,6 +63,9 @@
         - Exception: You perform a TSD donation to immediately open the garbage hole.
     - This ruleset to pretend the opponent is watching your board at all times, the moment you block your hole, you are dead.
 - Know when to bail from your opener! The opener phase of the game is one of the most deadly! There's a very high chance some part of your opener takes a long time to build and it's difficult to downstack out of it. It's better to avoid that part of it if it means surviving.
+    - On the flipside, if your opponent is using a kill opener, please try to defend *first* before downstacking! There's always a chance to fail your downstack, especially with column 2 / 9 garbage! But defending is always consistent! Try to APM up until mid game until then.
+    - If your opponent is not handling your kill opener wells.. you can either take the free win, or.. ideally, you can practice mid game with them instead! 
+        - Remember, rank is just a number. Prioritze improvement over the funny number.
 
 ### Defense
 - There is an extremely likely chance that your opponent will start the game with (Extended) SDPC-Spin and Stickspin, you will need to learn how to handle them appropriately in order to advance the ranks!
@@ -83,14 +86,3 @@
         - Why are they waiting? Do they have something prepared? 
         - If they are trying to survive and cancel you, you will always have more time than them as long as you are lower on the board. They are forced to move!
         - If they are trying to spike you... well, keep stacking! But as always, build cleanly.
-
-## S+ Rank
-- Your opponent will now employ deadly funnel stack spikes, so you must learn to do the same.
-- Using double TSD setups like STSD and Fractals may be fancy, but in the end, they will "only" send 8 lines with a lot of risk..
-    - Enter: Funnelstacking.
-- If you've used 2-wide before, you might already be familliar with this.
-- To build a funnel stack spike, first, look for a nice clean well, and start building a funnel shape: a well thats lowly widens in size! So 2 -> 3 -> 4 wide.
-- Then, combo downstack and finish off with a quad.
-- Most of your damage will come from funnelstacking. Doing a TSD -> +8 combo -> Quad -> Quad can yield 42 damage(!), enough to murder just about anyone!
-    - Don't be afraid to use your T-piece in the stack while funnelstacking, just remember not all attacks are helpful, only pressuring ones are helpful!
-        - Trying to do a TSD that's not at the start can be incredibly tricky..

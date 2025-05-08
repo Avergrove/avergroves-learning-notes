@@ -2,14 +2,16 @@
 - This section is dedicated to answering questions you ask yourself. It's mostly a miscellaneous, commonly asked topic.
 
 - How do I counter enemy openers?
-    - Use your own opener
-
-- The enemy opener is too fast!
-    - If you can't go fast, then try going slow. Build flat for equal garbage access change, and defend. One TSD / Quad is usually enough.
-    - Or at least save use your slowness to defend using things like TKI... unless your opponent is intentionally slowing down too.
+    - If your opponent is using a kill opener, your first thought may be to downstack immediately... this isn't always a good idea.
+        - If you try to downstack immediately, you may fail to do so and simply tank more garbage and inevitably die, especially if you get a column 2 / 9 garbage!
+        - Instead, try to defend a few attacks with your own opener, and look for the perfect opportunity to combo downstack into your garbage!
 
 - I'm always put on cheese duty, I can't attack like this! What was the point of practicing 6-3?!
     - If you want to stay in good position, you NEED to defend. It's crucial, seriously. Defend properly while pressuring.
+    - Cheese attacks are inherently ineffecient. So you will be in good position if you defend against them.
+        - If they stop sending, they have to start the combo over.
+        - If they keep sending, they are cancelling inefficiently.
+    - If your opponent is not using a C4W setup, you probably don't need to stress about the amount of cheese you receive. You *should* stress about the possible combo quad from it, though.
 
 - I can't sprint faster
     It's likely one of the following issues:
@@ -20,6 +22,7 @@
         - It's better to place in a consistent rhythm and speed it up over time.
         - If you are learning music, this will also apply to sight reading! So you might as well also learn it here now and refine the skill.
 
-- I'm hardstuck on \<?\> rank
-    - You should probably watch your replays.
-    - No, really. You are probably saying "pffft, I already know my mistakes from when I play", and all right, that's fine, but if you lose and don't know why, try and look at the replays, both you and your opponent's board. Mid game losses are usually related to macro-strategy.
+- Handling 4 wide
+    - Try and let your opponent start a combo first. Then only send.
+    - Here comes the important part: Don't stop. Keep attacking! Each bag that you fail to attack with will result in cheese!
+    - Basically, the only solution to 4wide is to apm well during the 4wide combo time window.
