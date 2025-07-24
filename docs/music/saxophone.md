@@ -330,3 +330,65 @@ Bonus exercise: Spend a day just doing long tones. One hour of long tones. Im so
         - Memorize 4 chords and get practicing to a metronome!
 
 - Suggested song of the week: Mr PC, a 12 bar minor blues. Of particular note is practicing the fingering.
+
+## Episode 18 (26 June 2025)
+- A lesson in Jazz history and identifying the subgenre of a jazz music.
+- At the beginning, we have classical music..
+- Then, slaves were imported into the US. This brought in Spirituals and work songs (Gospel music)
+    - During this time, the culture mesh brought alive the early version of Blues
+    - Marching band jazz was also started at around this time. These are New Orleans Jazz and Dixieland jazz.
+        - Marching band jazz: A good sign to notice is drum rudiments and lack of guitars. This also means the bass is played by sousaphones.
+        - New Orleans jazz: These are the marching band jazz you would expect to hear, strong drum rudiments to support the melody! Also no guitars.
+        - Dixieland is like a white version of New Orleans Jazz born out of New Orleans Jazz
+            - "created when one instrument (usually the trumpet) plays the melody or a recognizable paraphrase or variation on it, and the other instruments of the "front line" improvise around that melody."
+            - Also it has clarinets.. and maybe banjos
+
+- The 40s / 50s
+    - Broadway music and showtunes take over
+        - These are songs you basically see in black and white shows.
+    - Broadway fusioned with old stuff = Standards (ie repertoires)
+
+- So when we mention "Straight ahead" jazz, it usually represents all the above, it's jazz when you think of "jazz" in its purest form.
+    - 251s, Tritone subs, blues
+
+- Big Band: The most notable feature is strong woodwind flourishes. Totoo toto TOOT when a melody is done
+
+- Swing: (I'ts a kind of music)
+
+## Episode 19:
+- remember to sing to your clapping... not clap to your singing
+    - Basically, change your singing, not change the time.
+
+- Other ways of counting include..
+    - Counting by note duration instead of bar
+    - Count by "1 and 2 and 3 and 4 and"
+    - Count by "1 and" being determined as "on-clap-" and "on-hand separates"
+
+## Episode 20:
+- A lesson on Modal music
+    - Modal music are jazz songs that stay on one chord for a long time. Staying on one chord for a long time keeps the relevant chord scale abstract, therefore allows more free improvisation
+    - When we think of a D minor chord (ii), usually, we can split it into 3 scales:
+        - D Dorian (0)
+        - D Aeolian (-1)
+        - D Phrygian (-2)
+    - From there, we can determine the relevant major scale
+        - C Major (Major 2nd down)
+        - F Major (Minor 3rd up)
+        - Bb Major (Major 3rd down)
+    - It's not a bad idea to memorize this, this will allow you to change keys rapidly on the go and keep the song modal.
+    - Another quick way to identify the relevant major is to check the key signature value
+        - D dorian has value of 0, what major has value of 0? C Major!
+    - Try and learn it both ways.
+
+- Rhythmic exercise:
+    - It's a good time to add triplets to your exercise!
+    - Start from minim, to semibreve, to quaver, to semiquaver, to triplets in one go!
+    - (Remember you can always breath on semibreve if it's natural and you need more air!)
+    - Another possible exercise is to alternate between semiquavers and triplets.
+        - 2/3/2/3, rest/rest/rest/rest, 3/2/3/2, repeat
+    
+- etc:
+    - You may not have noticed it, but your fingers are lifting while playing.
+    - Tonguing: Try dududu
+    - Starting the first note:
+        - The air pressure should be *ready* already. Don't wait till the song starts before you start blowing!

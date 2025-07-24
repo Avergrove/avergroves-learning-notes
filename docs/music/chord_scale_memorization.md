@@ -33,6 +33,22 @@
 |       | Phrygian       |
 
 - Notice that mixolydian is no longer available for Maj7, because the 7th gets flattened into a dominant chord.
+- Diminished chord is diminished chord
+
+- You will also want to learn to quickly figure out the possible keys for each mode of a chord. This can be identified by finding the key signature with the same key sig value as the mode.
+- This can also be identified using intervals. The ones provided are the "easier" to memorize ones
+
+### Mode keys (Normalized to C)
+| Chord | Scale            | Key sig value | Major tonic key | Interval
+| ----- | ---------------- | ------------- | --------------- | ---------
+| Maj   | C Lydian         | +1            | G Major         | Perfect fifth up
+|       | C Ionian (Major) | 0             | C Major         | Perfect unison
+|       | C Mixolydian     | -1            | F Major         | Perfect fourth up
+| min7  | C Dorian         | -2            | Bb Major        | Major second down
+|       | C Aeolian (Minor)| -3            | Eb Major        | Major third down
+|       | C Phrygian       | -4            | Ab Major        | Minor third up (M6 up)
+| dim   | C Locrian        | -5            | Db Major        | Minor second down (M7 up)
+
 
 ## Section 2: The Dominant chord
 The core of a 7 chord is the Mixolydian mode.

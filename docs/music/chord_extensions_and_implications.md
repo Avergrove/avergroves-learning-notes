@@ -1,4 +1,4 @@
-# Chord Extensions
+# Chord Extensions and Implications
 - omg SDPC Extension reference (joke)
 - chord extensions are basically anything beyond 7+ notes in a chord, they're there to give a chord more flavor without altering the core sound.
 - Helpful resources: https://old.reddit.com/r/musictheory/comments/hjd0dj/most_things_you_should_know_about_chord/
@@ -52,3 +52,19 @@
 - If someone says play a 13th. It usually means play a 13th without the 9th and 11th
 - If you want to add a 9th in, do it if you'd like, it's really just there for funsies. 9th is the safest extension and you can always add it in.
 - The 11th is the neglected child... until its not.
+
+
+---
+
+## Chord Implications
+- An extended chord or slash chord is another way to show how to play a chord quickly.
+- The extension is ironically quite important, otherwise they wouldn't be writing it since you would just be adding it when you feel like it.
+
+### Major 7ths
+- Majors 7ths are usually played as-is
+- CM7#11: This is the standard Lydian chord.
+
+### Dominant 7ths
+- Dominants are often used as the "default" chord if the 7th doesnt matter, but the extension 
+- C7flat13 chord: Play an augmented C
+- 
